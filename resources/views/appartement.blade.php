@@ -102,7 +102,7 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <a href="./bathrooms.html" class="primary-btn">Meer details</a>
+                            <a href="./badkamers.html" class="primary-btn">Meer details</a>
                         </div>
                     </div>
                 </div>
@@ -119,7 +119,7 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <a href="./bathrooms.html" class="primary-btn">Meer details</a>
+                            <a href="./badkamers.html" class="primary-btn">Meer details</a>
                         </div>
                     </div>
                 </div>
@@ -137,7 +137,7 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <a href="./outside.html" class="primary-btn">Meer details</a>
+                            <a href="./buiten.html" class="primary-btn">Meer details</a>
                         </div>
                     </div>
                 </div>

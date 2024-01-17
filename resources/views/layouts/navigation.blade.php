@@ -14,19 +14,19 @@
                     <nav class="mainmenu">
                         <ul>
                             <li><a href="{{ url('/') }}">Home</a></li>
-                            <li class="{{ Request::is('apartment*') ? 'active' : '' }}">
-                                <a href="{{ url('/apartment') }}">Appartement</a>
+                            <li class="{{ Request::is('appartement*') ? 'active' : '' }}">
+                                <a href="{{ url('/appartement') }}">Appartement</a>
                                 <ul class="dropdown">
-                                    <li><a href="{{ url('/photos') }}">Foto's</a></li>
-                                    <li><a href="{{ url('/more-information') }}">Meer informatie</a></li>
+                                    <li><a href="{{ url('/fotos') }}">Foto's</a></li>
+                                    <li><a href="{{ url('/meer-informatie') }}">Meer informatie</a></li>
                                 </ul>
                             </li>
-                            <li><a href="{{ url('/what-to-do') }}">Wat te doen</a></li>
+                            <li><a href="{{ url('/wat-te-doen') }}">Wat te doen</a></li>
                             <li class="{{ Request::is('contact*') ? 'active' : '' }}">
                                 <a href="{{ url('/contact') }}">Contact</a>
                                 <ul class="dropdown">
-                                    <li><a href="{{ url('/how-to-get-there') }}">Routebeschrijving</a></li>
-                                    <!-- <li><a href="{{ url('/about-us') }}">Over ons</a></li> -->
+                                    <li><a href="{{ url('/routebeschrijving') }}">Routebeschrijving</a></li>
+                                    <!-- <li><a href="{{ url('/over-ons') }}">Over ons</a></li> -->
                                 </ul>
                             </li>
                         </ul>
