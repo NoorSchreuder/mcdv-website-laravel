@@ -1,47 +1,4 @@
 @extends('layouts.layout')
-<style>
-    div.gallery img {
-        width: 100%;
-        height: auto;
-    }
-
-    div.desc {
-        padding: 15px;
-        text-align: center;
-    }
-
-
-    .responsive {
-        padding: 0 6px;
-        float: left;
-        width: 24.99999%;
-    }
-
-    @media only screen and (max-width: 700px) {
-        .responsive {
-            width: 49.99999%;
-            margin: 6px 0;
-        }
-    }
-
-    @media only screen and (max-width: 500px) {
-        .responsive {
-            width: 100%;
-        }
-    }
-
-    .clearfix:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
-    .gallery img:hover {
-        transform: scale(1.2);
-        /* You can adjust the scaling factor as needed */
-        transition: transform 0.3s ease;
-        /* Optional: Add a smooth transition effect */
-    }
-</style>
 
 @section('content')
     <!-- Breadcrumb Section Begin -->
