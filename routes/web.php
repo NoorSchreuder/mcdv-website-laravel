@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ContactController;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -59,3 +61,6 @@ Route::get('/wat-te-doen', function () {
 Route::get('/woonkamer', function () {
     return view('woonkamer');
 });
+
+Route::get('/contact', [ContactController::class, 'showForm']);
+Route::post('/contact', [ContactController::class, 'submitForm']);
