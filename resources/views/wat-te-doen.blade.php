@@ -1,9 +1,4 @@
 @extends('layouts.layout')
-<style>
-    .bd-hero-text h2 {
-        color: black; /* Zwart kleur */
-    }
-</style>
 
 @section('content')
     <!-- Blog Details Hero Section Begin -->

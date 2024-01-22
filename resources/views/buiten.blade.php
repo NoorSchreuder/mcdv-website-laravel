@@ -1,3 +1,4 @@
+@extends('layouts.layout')
 @section('content')
     <!-- Breadcrumb Section Begin -->
     <div class="breadcrumb-section">

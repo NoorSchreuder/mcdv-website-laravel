@@ -2,7 +2,7 @@
 
 @section('content')
     <!-- Blog Details Hero Section Begin -->
-    <section class="blog-details-hero set-bg" data-setbg="img/outside/olives.jpg">
+    <section class="blog-details-hero set-bg" >
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 offset-lg-1">

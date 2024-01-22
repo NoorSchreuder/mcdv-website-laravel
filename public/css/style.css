@@ -2461,3 +2461,6 @@ div.desc {
 	transition: transform 0.3s ease;
 	/* Optional: Add a smooth transition effect */
 }
+.bd-hero-text h2 {
+	color: black; /* Zwart kleur */
+}
