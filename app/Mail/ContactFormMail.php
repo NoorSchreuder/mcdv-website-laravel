@@ -33,15 +33,15 @@ class ContactFormMail extends Mailable
      *
      * @return $this
      */
-  // ContactFormMail.php
-public function build()
-{
-    return $this
-        ->subject('Bericht contactformulier')
-        ->view('contact') // Let op: ik heb de viewnaam gewijzigd naar 'emails.contact'
-        ->with([
-            'formData' => $this->formData, // Hier stel je de gegevens beschikbaar voor de view
-        ]);
-}
+    public function build()
+    {
+        return $this
+            ->subject('Bericht contactformulier')
+            ->text('emails.contact_plain') // Change the view method to text
+            ->with([
+                'formData' => $this->formData,
+            ]);
+    }
+
 
 }
