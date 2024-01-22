@@ -52,8 +52,8 @@
                     <div class="breadcrumb-text">
                         <h2>Slaapkamers</h2>
                         <div class="bt-option">
-                            <a href="./index.html">Home</a>
-                            <a href="./apartment.html">Appartement</a>
+                            <a href="{{ url('/index') }}">Home</a>
+                            <a href="{{ url('/appartement') }}">Appartement</a>
                             <span>Slaapkamers</span>
                         </div>
                     </div>

@@ -81,7 +81,7 @@
                     <div class="breadcrumb-text">
                         <h2>Foto's </h2>
                         <div class="bt-option">
-                            <a href="./home.html">Home</a>
+                            <a href="{{ url('/index') }}">Home</a>
                             <span>Foto's</span>
                         </div>
                     </div>

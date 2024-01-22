@@ -9,7 +9,7 @@
                     <div class="breadcrumb-text">
                         <h2>Over ons</h2>
                         <div class="bt-option">
-                            <a href="./index.html">Home</a>
+                            <a href="{{ url('/index') }}">Home</a>
                             <span>Over ons</span>
                         </div>
                     </div>

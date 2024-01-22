@@ -9,7 +9,7 @@
                     <div class="breadcrumb-text">
                         <h2>Ons appartement</h2>
                         <div class="bt-option">
-                            <a href="./home.html">Home</a>
+                            <a href="{{ url('/index') }}">Home</a>
                             <span>Appartement</span>
                         </div>
                     </div>
@@ -41,7 +41,7 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <a href="./livingroom.html" class="primary-btn">Meer details</a>
+                            <a href="{{ url('/woonkamer') }}" class="primary-btn">Meer details</a>
                         </div>
                     </div>
                 </div>
@@ -63,7 +63,7 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <a href="./bedrooms.html" class="primary-btn">Meer details</a>
+                            <a href="{{ url('/slaapkamer') }}" class="primary-btn">Meer details</a>
                         </div>
                     </div>
                 </div>
@@ -85,7 +85,7 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <a href="./bedrooms.html" class="primary-btn">Meer details</a>
+                            <a href="{{ url('/slaapkamer') }}" class="primary-btn">Meer details</a>
                         </div>
                     </div>
                 </div>
@@ -102,7 +102,7 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <a href="./badkamers.html" class="primary-btn">Meer details</a>
+                            <a href="{{ url('/badkamer') }}" class="primary-btn">Meer details</a>
                         </div>
                     </div>
                 </div>
@@ -119,7 +119,7 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <a href="./badkamers.html" class="primary-btn">Meer details</a>
+                            <a href="{{ url('/badkamer') }}" class="primary-btn">Meer details</a>
                         </div>
                     </div>
                 </div>
@@ -137,7 +137,7 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <a href="./buiten.html" class="primary-btn">Meer details</a>
+                            <a href="{{ url('/buiten') }}" class="primary-btn">Meer details</a>
                         </div>
                     </div>
                 </div>

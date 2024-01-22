@@ -70,7 +70,7 @@
                             Benieuwd?
 
                         </p>
-                        <a href="./apartment.html" class="primary-btn about-btn">Bekijk meer</a>
+                        <a href="{{ url('/appartement') }}" class="primary-btn about-btn">Bekijk meer</a>
                     </div>
                 </div>
             </div>
@@ -95,8 +95,8 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="service-item">
                         <i class="flaticon-036-parking"></i>
-                        <a href="how-to-get-there.html">
-                            <h4 href="how-to-get-there.html">Routebeschrijving</h4>
+                        <a href="{{ url('/routebeschrijving') }}">
+                            <h4 href="{{ url('/routebeschrijving') }}">Routebeschrijving</h4>
                             <p>Bekijk hier hoe je bij ons komt!</p>
                         </a>
                     </div>
@@ -130,7 +130,7 @@
                         <div class="hp-room-item set-bg" data-setbg="img/bedrooms/classico/bed10.jpg">
                             <div class="hr-text">
                                 <h3>Slaapkamers</h3>
-                                <a href="./bedrooms.html" class="primary-btn">Meer details</a>
+                                <a href="{{ url('/slaapkamer') }}" class="primary-btn">Meer details</a>
                             </div>
                         </div>
                     </div>
@@ -138,7 +138,7 @@
                         <div class="hp-room-item set-bg" data-setbg="img/bathrooms/nieuw/overview_badkamernieuw.jpg">
                             <div class="hr-text">
                                 <h3>Badkamers</h3>
-                                <a href="./badkamers.html" class="primary-btn">Meer details</a>
+                                <a href="{{ url('/badkamer') }}" class="primary-btn">Meer details</a>
                             </div>
                         </div>
                     </div>
@@ -146,7 +146,7 @@
                         <div class="hp-room-item set-bg" data-setbg="img/huisje/overviewliving.jpg">
                             <div class="hr-text">
                                 <h3>Woonkamer</h3>
-                                <a href="./livingroom.html" class="primary-btn">Meer details</a>
+                                <a href="{{ url('/woonkamer') }}" class="primary-btn">Meer details</a>
                             </div>
                         </div>
                     </div>
@@ -155,7 +155,7 @@
                             <div class="hr-text">
                                 <h3>Buiten</h3>
                                 </table>
-                                <a href="./more-information.html" class="primary-btn">Meer details</a>
+                                <a href="{{ url('/buiten') }}" class="primary-btn">Meer details</a>
                             </div>
                         </div>
                     </div>
