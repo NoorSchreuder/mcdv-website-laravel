@@ -32,16 +32,15 @@ class ContactFormMail extends Mailable
      * Build the message.
      *
      * @return $this
-     */
+     */// ContactFormMail.php
     public function build()
     {
         return $this
             ->subject('Bericht contactformulier')
-            ->text('emails.contact_plain') // Change the view method to text
+            ->text('emails.contact_plain')
             ->with([
                 'formData' => $this->formData,
+                'timestamp' => now(), // Add the current timestamp
             ]);
     }
-
-
 }
