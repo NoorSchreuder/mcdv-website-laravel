@@ -32,7 +32,7 @@
                             @csrf <!-- Add this to include CSRF protection -->
                             <div class="row">
                                 <div class="col-lg-6">
-                                    <input type="text" name="name" placeholder="Naam"  required>
+                                    <input type="text" name="name" placeholder="Naam" required>
                                 </div>
                                 <div class="col-lg-6">
                                     <input type="text" name="email" placeholder="E-mailadres" required>
@@ -46,6 +46,13 @@
                                 </div>
                             </div>
                         </form>
+                        <!-- resources/views/contact.blade.php -->
+                        @if (session('success'))
+                            <div class="alert alert-success">
+                                {{ session('success') }}
+                            </div>
+                        @endif
+
                         @if ($errors->any())
                             <div class="alert alert-danger">
                                 <ul>
@@ -55,6 +62,7 @@
                                 </ul>
                             </div>
                         @endif
+
 
                     </div>
                 </div>

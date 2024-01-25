@@ -516,9 +516,9 @@ ol {
 
 .menu-item .nav-menu .mainmenu li {
 	list-style: none;
-    display: inline-block;
-    position: relative;
-    z-index: 1;
+	display: inline-block;
+	position: relative;
+	z-index: 1;
 }
 
 .menu-item .nav-menu .mainmenu li.active a:after {
@@ -655,6 +655,7 @@ ol {
 	line-height: 28px;
 	margin-bottom: 35px;
 }
+
 /* 
 .booking-form {
 	background: #ffffff;
@@ -2128,7 +2129,7 @@ ol {
 		text-align: center;
 		cursor: pointer;
 		margin-bottom: 10px;
-		padding: 80px; 
+		padding: 80px;
 	}
 
 	.offcanvas-menu-wrapper .header-configure-area {
@@ -2391,7 +2392,7 @@ ol {
 	.footer-section .copyright-option ul li {
 		margin-right: 25px;
 	}
-	
+
 	.about-text .section-title h2 {
 		font-size: 30px;
 		line-height: 40px;
@@ -2416,7 +2417,7 @@ ol {
 	.video-section {
 		padding-top: 80px;
 	}
-	
+
 }
 
 div.gallery img {
@@ -2461,6 +2462,8 @@ div.desc {
 	transition: transform 0.3s ease;
 	/* Optional: Add a smooth transition effect */
 }
+
 .bd-hero-text h2 {
-	color: black; /* Zwart kleur */
+	color: black;
+	/* Zwart kleur */
 }

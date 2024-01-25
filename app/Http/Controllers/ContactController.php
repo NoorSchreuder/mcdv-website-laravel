@@ -21,17 +21,17 @@ class ContactController extends Controller
             'phone' => 'required|numeric',  // Use a standard validation rule like 'numeric'
             'message' => 'required|string',
         ]);
-    
+
         // Check if validation fails
         if ($validator->fails()) {
             return redirect('/contact')->withErrors($validator)->withInput();
         }
-    
+
         // Process the form data (you can send an email or take any other action)
         // For example, sending an email using Laravel's built-in Mail facade
         \Mail::to('ilbanditoarancione@gmail.com')->send(new \App\Mail\ContactFormMail($request->all()));
-    
-        // Redirect back with a success message
-        return redirect('/contact')->with('success', 'Your message has been sent successfully!');
+
+        return redirect('/contact')->with('success', 'Je bericht is verzonden');
+
     }
 }
