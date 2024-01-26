@@ -231,15 +231,3 @@
 @section('footer')
 
 @endsection
-
-<script>
-    function changeLanguage(languageCode) {
-        // Implement logic to change the language here
-        // You can use this code to fetch translations from a server or switch based on pre-loaded translations.
-        // For this example, we'll simply reload the page with a query parameter for the selected language.
-
-        const currentURL = window.location.href;
-        const updatedURL = currentURL.includes('?') ? `${currentURL}&lang=${languageCode}` : `${currentURL}?lang=${languageCode}`;
-        window.location.href = updatedURL;
-    }
-</script>
