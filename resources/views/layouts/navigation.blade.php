@@ -92,9 +92,9 @@
                 <div class="col-lg-2">
                     <div class="logo">
                         <a href="{{ url('/') }}">
-                            <img src="img/logo.png" class="logo-menu" alt="Logo Il Bandito Arancione">
+                            <img src="img/logo.png" class="logo-menu" alt="Logo Il Bandito Arancione" style="width: 125px;">
                         </a>
-                    </div>
+                    </div>                    
                 </div>
                 <div class="col-lg-10">
                     <div class="nav-menu">
