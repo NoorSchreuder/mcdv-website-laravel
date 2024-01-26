@@ -89,7 +89,7 @@
                                     </ul>
                                 </li>
                                 <li><a href="{{ url('/wat-te-doen') }}">Wat te doen </a> </li>
-                                <li class="active"><a href="{{ url('/contact') }}">Contact</a>
+                                <li><a href="{{ url('/contact') }}">Contact</a>
                                     <ul class="dropdown">
 
                                         <li><a href="{{ url('/routebeschrijving') }}">Routebeschrijving</a></li>

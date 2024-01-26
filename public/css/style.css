@@ -564,7 +564,7 @@ ol {
 
 .hero-section {
     position: relative;
-    height: calc(60vh - -200px);
+    height: calc(70vh - -100px);
     overflow: hidden;
 }
 

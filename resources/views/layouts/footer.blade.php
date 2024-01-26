@@ -5,7 +5,7 @@
                 <div class="col-lg-4">
                     <div class="ft-about">
                         <div class="logo">
-                            <a href="#">
+                            <a href="{{ url('/') }}">
                                 <img src="img/logo.png" alt="" height="100" length="50">
                             </a>
                         </div>
