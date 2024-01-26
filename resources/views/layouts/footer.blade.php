@@ -36,10 +36,10 @@
             <div class="row">
                 <div class="col-lg-7">
                     <ul>
-                    <li><a href="./index.html">Home</a></li>
-                        <li><a href="./apartment.html">Appartement </a></li>
-                        <li><a href="./what-to-do.html">Wat te doen </a></li>
-                        <li><a href="./contact.html">Contact</a></li>
+                    <li><a href="{{ url('/') }}">Home</a></li>
+                        <li><a href="{{ url('/appartement') }}">Appartement </a></li>
+                        <li><a href="{{ url('/wat-te-doen') }}">Wat te doen </a></li>
+                        <li><a href="{{ url('/contact') }}">Contact</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-5">

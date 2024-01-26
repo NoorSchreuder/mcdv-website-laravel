@@ -628,9 +628,9 @@ ol {
 -----------------------*/
 
 .hero-section {
-	position: relative;
-	padding-top: 60px;
-	padding-bottom: 100px;
+    position: relative;
+    height: calc(100vh - -200px);
+    overflow: hidden;
 }
 
 .hero-section .container {

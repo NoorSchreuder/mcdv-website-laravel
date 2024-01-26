@@ -21,7 +21,7 @@
     </div>
     <nav class="mainmenu mobile-menu">
         <ul>
-            <li><a href="{{ url('/index') }}">Home</a></li>
+            <li><a href="{{ url('/') }}">Home</a></li>
             <li><a href="{{ url('/appartement') }}">Appartement </a>
                 <ul class="dropdown">
                     <li><a href="{{ url('/fotos') }}">Foto's</a></li>
@@ -91,7 +91,7 @@
             <div class="row">
                 <div class="col-lg-2">
                     <div class="logo">
-                        <a href="{{ url('/index') }}">
+                        <a href="{{ url('/') }}">
                             <img src="img/logo.png" class="logo-menu" alt="Logo Il Bandito Arancione">
                         </a>
                     </div>
@@ -100,7 +100,7 @@
                     <div class="nav-menu">
                         <nav class="mainmenu">
                             <ul>
-                                <li><a href="{{ url('/index') }}">Home</a></li>
+                                <li><a href="{{ url('/') }}">Home</a></li>
                                 <li><a href="{{ url('/appartement') }}">Appartement </a>
                                     <ul class="dropdown">
                                         <li><a href="{{ url('/fotos') }}">Foto's</a></li>

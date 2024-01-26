@@ -9,7 +9,7 @@
                     <div class="breadcrumb-text">
                         <h2>Badkamers</h2>
                         <div class="bt-option">
-                            <a href="{{ url('/index') }}">Home</a>
+                            <a href="{{ url('/') }}">Home</a>
                             <a href="{{ url('/appartement') }}">Appartement</a>
                             <span>Badkamers</span>
                         </div>
