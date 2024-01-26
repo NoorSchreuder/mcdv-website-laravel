@@ -31,7 +31,7 @@ class ContactController extends Controller
         // For example, sending an email using Laravel's built-in Mail facade
         \Mail::to('ilbanditoarancione@gmail.com')->send(new \App\Mail\ContactFormMail($request->all()));
 
-        return redirect('/contact')->with('success', 'Je bericht is verzonden');
-
+        // Redirect to the thank you page
+        return view('thankyou');
     }
 }
