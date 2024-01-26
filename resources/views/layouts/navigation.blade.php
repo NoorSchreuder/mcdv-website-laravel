@@ -6,16 +6,6 @@
         <i class="icon_search"></i>
     </div>
     <div class="header-configure-area">
-        <!-- <div class="language-option">
-            <img src="img/flag.jpg" alt="">
-            <span>EN <i class="fa fa-angle-down"></i></span>
-            <div class="flag-dropdown">
-                <ul>
-                    <li><a href="#">Zi</a></li>
-                    <li><a href="#">Fr</a></li>
-                </ul>
-            </div>
-        </div> -->
         <a href="https://www.vrbo.com/nl-nl/vakantiewoning/p11405700?chkin=2024-05-11&chkout=2024-05-18&d1=2024-05-11&d2=2024-05-18&startDate=2024-05-11&endDate=2024-05-18&x_pwa=1&rfrr=HSR&pwa_ts=1697727574882&referrerUrl=aHR0cHM6Ly93d3cudnJiby5jb20vSG90ZWwtU2VhcmNo&useRewards=true&adults=1&children=&regionId=6025720&destination=Monte+Castello+di+Vibio%2C+Umbri%C3%AB%2C+Itali%C3%AB&destType=MARKET&latLong=42.837948%2C12.348275&privacyTrackingState=CAN_NOT_TRACK&searchId=d014ac90-3947-463d-a5fb-40417f04e673&sort=RECOMMENDED&top_dp=1346&top_cur=EUR&userIntent=&selectedRoomType=99714158&selectedRatePlan=0001308e9440e1094be4ab23465b24aff073&expediaPropertyId=99714158"
             class="bk-btn">Boek nu!</a>
     </div>
@@ -71,16 +61,6 @@
                         </div>
                         <a href="https://www.vrbo.com/nl-nl/vakantiewoning/p11405700?chkin=2024-05-11&chkout=2024-05-18&d1=2024-05-11&d2=2024-05-18&startDate=2024-05-11&endDate=2024-05-18&x_pwa=1&rfrr=HSR&pwa_ts=1697727574882&referrerUrl=aHR0cHM6Ly93d3cudnJiby5jb20vSG90ZWwtU2VhcmNo&useRewards=true&adults=1&children=&regionId=6025720&destination=Monte+Castello+di+Vibio%2C+Umbri%C3%AB%2C+Itali%C3%AB&destType=MARKET&latLong=42.837948%2C12.348275&privacyTrackingState=CAN_NOT_TRACK&searchId=d014ac90-3947-463d-a5fb-40417f04e673&sort=RECOMMENDED&top_dp=1346&top_cur=EUR&userIntent=&selectedRoomType=99714158&selectedRatePlan=0001308e9440e1094be4ab23465b24aff073&expediaPropertyId=99714158"
                             class="bk-btn">Boek nu!</a>
-                        <!-- <div class="language-option">
-                            <img src="img/flag.jpg" alt="">
-                            <span>EN <i class="fa fa-angle-down"></i></span>
-                            <div class="flag-dropdown">
-                                <ul>
-                                    <li><a href="#">Zi</a></li>
-                                    <li><a href="#">Fr</a></li>
-                                </ul>
-                            </div>
-                        </div> -->
                     </div>
                 </div>
             </div>
