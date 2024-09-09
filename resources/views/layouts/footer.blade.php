@@ -13,7 +13,7 @@
                         <div class="fa-social">
                             
                          <!-- <a href="#"><i class="fa fa-tripadvisor"></i></a> -->
-                            <a href="#"><i class="fa fa-instagram"></i></a>
+                            <a href="https://www.instagram.com/il_bandito_arancione?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><i class="fa fa-instagram"></i></a>
                             
                         </div>
                     </div>

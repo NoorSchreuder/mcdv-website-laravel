@@ -62,13 +62,13 @@
                             <h2>Il Bandito Arancione</h2>
                         </div>
                         <p class="f-para">
-                            Welkom in onze prachtige appartement Il Bandito Arancione. Dit schitterende appartement is
-                            onderdeel van een 150 jaar oude villa en diende oorspronkelijk als boerderij. Een huis waar
+                            Welkom in ons prachtige appartement Il Bandito Arancione. Dit schitterende appartement is
+                            onderdeel van een 150 jaar oude boerenwoning. Een huis waar
                             verschillende generaties samenwoonden, samen met hun vee.
                         </p>
                         <p class="text-center">
                             Benieuwd?
-
+|
                         </p>
                         <a href="{{ url('/appartement') }}" class="primary-btn about-btn">Bekijk meer</a>
                     </div>
