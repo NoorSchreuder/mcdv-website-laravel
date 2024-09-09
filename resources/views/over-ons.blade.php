@@ -7,10 +7,10 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="breadcrumb-text">
-                        <h2>Over ons</h2>
+                        <h2>{{ __('messages.about_us') }}</h2>
                         <div class="bt-option">
-                            <a href="{{ url('/') }}">Home</a>
-                            <span>Over ons</span>
+                            <a href="{{ url('/') }}">{{ __('messages.home') }}</a>
+                            <span>{{ __('messages.about_us') }}</span>
                         </div>
                     </div>
                 </div>
@@ -26,11 +26,11 @@
                 <div class="row">
                     <div class="col-lg-5 offset-lg-1">
                         <ul class="ap-services">
-                            <li><i class="icon_check"></i> 20% Off On Accommodation.</li>
-                            <li><i class="icon_check"></i> Complimentary Daily Breakfast</li>
-                            <li><i class="icon_check"></i> 3 Pcs Laundry Per Day</li>
-                            <li><i class="icon_check"></i> Free Wifi.</li>
-                            <li><i class="icon_check"></i> Discount 20% On F&B</li>
+                            <li><i class="icon_check"></i> {{ __('messages.discount_accommodation') }}</li>
+                            <li><i class="icon_check"></i> {{ __('messages.complimentary_breakfast') }}</li>
+                            <li><i class="icon_check"></i> {{ __('messages.laundry_service') }}</li>
+                            <li><i class="icon_check"></i> {{ __('messages.free_wifi') }}</li>
+                            <li><i class="icon_check"></i> {{ __('messages.discount_fnb') }}</li>
                         </ul>
                     </div>
                 </div>
@@ -40,21 +40,21 @@
                     <div class="col-md-4">
                         <div class="ap-service-item set-bg" data-setbg="img/about/about-p1.jpg">
                             <div class="api-text">
-                                <h3>Restaurants Services</h3>
+                                <h3>{{ __('messages.restaurant_services') }}</h3>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="ap-service-item set-bg" data-setbg="img/about/about-p2.jpg">
                             <div class="api-text">
-                                <h3>Travel & Camping</h3>
+                                <h3>{{ __('messages.travel_camping') }}</h3>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="ap-service-item set-bg" data-setbg="img/about/about-p3.jpg">
                             <div class="api-text">
-                                <h3>Event & Party</h3>
+                                <h3>{{ __('messages.event_party') }}</h3>
                             </div>
                         </div>
                     </div>
@@ -70,10 +70,11 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="video-text">
-                        <h2>Discover Our Hotel & Services.</h2>
-                        <p>It S Hurricane Season But We Are Visiting Hilton Head Island</p>
-                        <a href="https://www.youtube.com/watch?v=EzKkl64rRbM" class="play-btn video-popup"><img
-                                src="img/play.png" alt=""></a>
+                        <h2>{{ __('messages.discover_hotel_services') }}</h2>
+                        <p>{{ __('messages.hurricane_season_message') }}</p>
+                        <a href="https://www.youtube.com/watch?v=EzKkl64rRbM" class="play-btn video-popup">
+                            <img src="img/play.png" alt="">
+                        </a>
                     </div>
                 </div>
             </div>

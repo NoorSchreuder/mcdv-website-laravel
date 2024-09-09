@@ -7,11 +7,11 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="breadcrumb-text">
-                        <h2>Slaapkamers</h2>
+                        <h2>{{ __('messages.bedrooms') }}</h2>
                         <div class="bt-option">
-                            <a href="{{ url('/') }}">Home</a>
-                            <a href="{{ url('/appartement') }}">Appartement</a>
-                            <span>Slaapkamers</span>
+                            <a href="{{ url('/') }}">{{ __('messages.home') }}</a>
+                            <a href="{{ url('/appartement') }}">{{ __('messages.apartment') }}</a>
+                            <span>{{ __('messages.bedrooms') }}</span>
                         </div>
                     </div>
                 </div>
@@ -20,24 +20,24 @@
     </div>
     <!-- Breadcrumb Section End -->
 
-    <!-- Over ons Page Section Begin -->
+    <!-- Bedrooms Page Section Begin -->
     <section class="aboutus-page-section spad">
         <div class="container">
             <div class="about-page-text">
                 <div class="row">
                     <div class="col-lg-5 offset-lg-1">
                         <ul class="ap-services">
-                            <li><i class="icon_check"></i> Wifi</li>
-                            <li><i class="icon_check"></i> Kingsize bed & 2 eenpersoonsbedden </li>
-                            <li><i class="icon_check"></i> Opbergmogelijkheden</li>
-                            <li><i class="icon_check"></i> Openslaande deuren naar klein terras</li>
+                            <li><i class="icon_check"></i> {{ __('messages.wifi') }}</li>
+                            <li><i class="icon_check"></i> {{ __('messages.kingsize_and_single_beds') }}</li>
+                            <li><i class="icon_check"></i> {{ __('messages.storage_options') }}</li>
+                            <li><i class="icon_check"></i> {{ __('messages.door_to_small_terrace') }}</li>
                         </ul>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- Over ons Page Section End -->
+    <!-- Bedrooms Page Section End -->
 
     <section class="image-slider-section">
         <div class="container">
