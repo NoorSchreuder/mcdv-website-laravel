@@ -65,7 +65,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/bedrooms/blue/slaapkamerblauw_kastje.jpg">
-                            <img src="img/bedrooms/blue/slaapkamerblauw_kastje.jpg" alt="Northern Lights" width="600"
+                            <img src="img/bedrooms/blue/slaapkamerblauw_kastje.jpg" alt="" width="600"
                                 height="400">
                         </a>
                         <div class="desc"></div>
@@ -75,7 +75,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/bedrooms/blue/slaapkamerblauw_muur.jpg">
-                            <img src="img/bedrooms/blue/slaapkamerblauw_muur.jpg" alt="Northern Lights" width="600"
+                            <img src="img/bedrooms/blue/slaapkamerblauw_muur.jpg" alt="" width="600"
                                 height="400">
                         </a>
                         <div class="desc"></div>
@@ -106,7 +106,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/bedrooms/classico/bed3.jpg">
-                            <img src="img/bedrooms/classico/bed3.jpg" alt="Northern Lights" width="600" height="400">
+                            <img src="img/bedrooms/classico/bed3.jpg" alt="" width="600" height="400">
                         </a>
                         <div class="desc"></div>
                     </div>
@@ -115,7 +115,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/bedrooms/classico/bed4.jpg">
-                            <img src="img/bedrooms/classico/bed4.jpg" alt="Northern Lights" width="600" height="400">
+                            <img src="img/bedrooms/classico/bed4.jpg" alt="" width="600" height="400">
                         </a>
                         <div class="desc"></div>
                     </div>
@@ -126,7 +126,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/bedrooms/classico/bed6.jpg">
-                            <img src="img/bedrooms/classico/bed6.jpg" alt="Northern Lights" width="600" height="400">
+                            <img src="img/bedrooms/classico/bed6.jpg" alt="" width="600" height="400">
                         </a>
                         <div class="desc"></div>
                     </div>
@@ -135,7 +135,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/bedrooms/classico/kapstok.jpg">
-                            <img src="img/bedrooms/classico/kapstok.jpg" alt="Northern Lights" width="600" height="400">
+                            <img src="img/bedrooms/classico/kapstok.jpg" alt="" width="600" height="400">
                         </a>
                         <div class="desc"></div>
                     </div>
@@ -144,7 +144,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/bedrooms/classico/kastje.jpg">
-                            <img src="img/bedrooms/classico/kastje.jpg" alt="Northern Lights" width="600" height="400">
+                            <img src="img/bedrooms/classico/kastje.jpg" alt="" width="600" height="400">
                         </a>
                         <div class="desc"></div>
                     </div>
@@ -153,7 +153,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/bedrooms/classico/stoel_muur.jpg">
-                            <img src="img/bedrooms/classico/stoel_muur.jpg" alt="Northern Lights" width="600"
+                            <img src="img/bedrooms/classico/stoel_muur.jpg" alt="" width="600"
                                 height="400">
                         </a>
                         <div class="desc"></div>
@@ -182,7 +182,7 @@
             <div class="responsive">
                 <div class="gallery">
                     <a target="_blank" href="img/bedrooms/blue/slaapkamerblauw_kastje.jpg">
-                        <img src="img/bedrooms/blue/slaapkamerblauw_kastje.jpg" alt="Northern Lights" width="600"
+                        <img src="img/bedrooms/blue/slaapkamerblauw_kastje.jpg" alt="" width="600"
                             height="400">
                     </a>
                     <div class="desc"></div>
@@ -192,7 +192,7 @@
             <div class="responsive">
                 <div class="gallery">
                     <a target="_blank" href="img/bedrooms/blue/slaapkamerblauw_muur.jpg">
-                        <img src="img/bedrooms/blue/slaapkamerblauw_muur.jpg" alt="Northern Lights" width="600"
+                        <img src="img/bedrooms/blue/slaapkamerblauw_muur.jpg" alt="" width="600"
                             height="400">
                     </a>
                     <div class="desc"></div>

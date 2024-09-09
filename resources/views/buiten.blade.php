@@ -56,7 +56,7 @@
                     <div class="responsive">
                         <div class="gallery">
                             <a target="_blank" href="img/outside/buitenplaat.jpg">
-                                <img src="img/outside/buitenplaat.jpg" alt="Northern Lights" width="600" height="400">
+                                <img src="img/outside/buitenplaat.jpg" alt="" width="600" height="400">
                             </a>
                             <div class="desc"></div>
                         </div>
@@ -65,7 +65,7 @@
                     <div class="responsive">
                         <div class="gallery">
                             <a target="_blank" href="img/outside/olives.jpg">
-                                <img src="img/outside/olives.jpg" alt="Northern Lights" width="600" height="400">
+                                <img src="img/outside/olives.jpg" alt="" width="600" height="400">
                             </a>
                             <div class="desc"></div>
                         </div>
@@ -74,7 +74,7 @@
                     <div class="responsive">
                         <div class="gallery">
                             <a target="_blank" href="img/outside/padzwembad.jpg">
-                                <img src="img/outside/padzwembad.jpg" alt="Northern Lights" width="600" height="400">
+                                <img src="img/outside/padzwembad.jpg" alt="" width="600" height="400">
                             </a>
                             <div class="desc"></div>
                         </div>
@@ -85,7 +85,7 @@
                     <div class="responsive">
                         <div class="gallery">
                             <a target="_blank" href="img/outside/pottenhorizontaal.jpg">
-                                <img src="img/outside/pottenhorizontaal.jpg" alt="Northern Lights" width="600"
+                                <img src="img/outside/pottenhorizontaal.jpg" alt="" width="600"
                                     height="400">
                             </a>
                             <div class="desc"></div>
@@ -95,7 +95,7 @@
                     <div class="responsive">
                         <div class="gallery">
                             <a target="_blank" href="img/zwembad/IMG_6383.jpg">
-                                <img src="img/zwembad/IMG_6383.jpg" alt="Northern Lights" width="600" height="400">
+                                <img src="img/zwembad/IMG_6383.jpg" alt="" width="600" height="400">
                             </a>
                             <div class="desc"></div>
                         </div>
@@ -104,7 +104,7 @@
                     <div class="responsive">
                         <div class="gallery">
                             <a target="_blank" href="img/zwembad/IMG_6401.jpg">
-                                <img src="img/zwembad/IMG_6401.jpg" alt="Northern Lights" width="600" height="400">
+                                <img src="img/zwembad/IMG_6401.jpg" alt="" width="600" height="400">
                             </a>
                             <div class="desc"></div>
                         </div>
@@ -113,7 +113,7 @@
                     <div class="responsive">
                         <div class="gallery">
                             <a target="_blank" href="img/zwembad/IMG_6377.jpg">
-                                <img src="img/zwembad/IMG_6377.jpg" alt="Northern Lights" width="600" height="400">
+                                <img src="img/zwembad/IMG_6377.jpg" alt="" width="600" height="400">
                             </a>
                             <div class="desc"></div>
                         </div>
@@ -124,7 +124,7 @@
                     <div class="responsive">
                         <div class="gallery">
                             <a target="_blank" href="img/zwembad/IMG_6379.jpg">
-                                <img src="img/zwembad/IMG_6379.jpg" alt="Northern Lights" width="600" height="400">
+                                <img src="img/zwembad/IMG_6379.jpg" alt="" width="600" height="400">
                             </a>
                             <div class="desc"></div>
                         </div>
@@ -133,7 +133,7 @@
                     <div class="responsive">
                         <div class="gallery">
                             <a target="_blank" href="img/zwembad/IMG_6381.jpg">
-                                <img src="img/zwembad/IMG_6381.jpg" alt="Northern Lights" width="600" height="400">
+                                <img src="img/zwembad/IMG_6381.jpg" alt="" width="600" height="400">
                             </a>
                             <div class="desc"></div>
                         </div>
@@ -142,7 +142,7 @@
                     <div class="responsive">
                         <div class="gallery">
                             <a target="_blank" href="img/zwembad/IMG_6382.jpg">
-                                <img src="img/zwembad/IMG_6382.jpg" alt="Northern Lights" width="600" height="400">
+                                <img src="img/zwembad/IMG_6382.jpg" alt="" width="600" height="400">
                             </a>
                             <div class="desc"></div>
                         </div>
@@ -151,7 +151,7 @@
                     <div class="responsive">
                         <div class="gallery">
                             <a target="_blank" href="img/zwembad/IMG_6399.jpg">
-                                <img src="img/zwembad/IMG_6399.jpg" alt="Northern Lights" width="600" height="400">
+                                <img src="img/zwembad/IMG_6399.jpg" alt="" width="600" height="400">
                             </a>
                             <div class="desc"></div>
                         </div>

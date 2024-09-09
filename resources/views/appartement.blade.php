@@ -7,10 +7,10 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="breadcrumb-text">
-                        <h2>Ons appartement</h2>
+                        <h2>{{ __('messages.apartment_title') }}</h2>
                         <div class="bt-option">
-                            <a href="{{ url('/') }}">Home</a>
-                            <span>Appartement</span>
+                            <a href="{{ url('/') }}">{{ __('messages.home') }}</a>
+                            <span>{{ __('messages.apartment') }}</span>
                         </div>
                     </div>
                 </div>
@@ -27,21 +27,20 @@
                     <div class="room-item">
                         <img src="img/huisje/binnenkomsttafel.jpg" alt="">
                         <div class="ri-text">
-                            <h4>Woonkamer-keuken</h4>
+                            <h4>{{ __('messages.living_room') }}</h4>
                             <table>
                                 <tbody>
                                     <tr>
                                         <td class="r-o">Bed:</td>
-                                        <td>Slaapbank</td>
+                                        <td>{{ __('messages.living_room_bed') }}</td>
                                     </tr>
                                     <tr>
                                         <td class="r-o">Services:</td>
-                                        <td>Wifi, eettafel, volledig ingerichte keuken, servieskast
-                                        </td>
+                                        <td>{{ __('messages.living_room_services') }}</td>
                                     </tr>
                                 </tbody>
                             </table>
-                            <a href="{{ url('/woonkamer') }}" class="primary-btn">Meer details</a>
+                            <a href="{{ url('/woonkamer') }}" class="primary-btn">{{ __('messages.details') }}</a>
                         </div>
                     </div>
                 </div>
@@ -49,21 +48,20 @@
                     <div class="room-item">
                         <img src="img/bedrooms/blue/slaapkamerblauw_bed.jpg" alt="">
                         <div class="ri-text">
-                            <h4>Slaapkamer 1</h4>
+                            <h4>{{ __('messages.bedroom1') }}</h4>
                             <table>
                                 <tbody>
                                     <tr>
                                         <td class="r-o">Bed:</td>
-                                        <td>Twee 1 persoonsbedden</td>
+                                        <td>{{ __('messages.bedroom1_bed') }}</td>
                                     </tr>
                                     <tr>
                                         <td class="r-o">Services:</td>
-                                        <td>Wifi, opbergmogelijkheden </td>
-                                    </tr>
+                                        <td>{{ __('messages.bedroom1_services') }}</td>
                                     </tr>
                                 </tbody>
                             </table>
-                            <a href="{{ url('/slaapkamer') }}" class="primary-btn">Meer details</a>
+                            <a href="{{ url('/slaapkamer') }}" class="primary-btn">{{ __('messages.details') }}</a>
                         </div>
                     </div>
                 </div>
@@ -71,21 +69,20 @@
                     <div class="room-item">
                         <img src="img/bedrooms/classico/bed10.jpg" alt="">
                         <div class="ri-text">
-                            <h4>Slaapkamer 2</h4>
+                            <h4>{{ __('messages.bedroom2') }}</h4>
                             <table>
                                 <tbody>
-
                                     <tr>
                                         <td class="r-o">Bed:</td>
-                                        <td>Kingsize bed</td>
+                                        <td>{{ __('messages.bedroom2_bed') }}</td>
                                     </tr>
                                     <tr>
                                         <td class="r-o">Services:</td>
-                                        <td>Wifi, opbergmogelijkheden, openslaande deuren naar klein terras</td>
+                                        <td>{{ __('messages.bedroom2_services') }}</td>
                                     </tr>
                                 </tbody>
                             </table>
-                            <a href="{{ url('/slaapkamer') }}" class="primary-btn">Meer details</a>
+                            <a href="{{ url('/slaapkamer') }}" class="primary-btn">{{ __('messages.details') }}</a>
                         </div>
                     </div>
                 </div>
@@ -93,16 +90,16 @@
                     <div class="room-item">
                         <img src="img/bathrooms/nieuw/wasbakwcnieuw.jpg" alt="">
                         <div class="ri-text">
-                            <h4>Badkamer 1</h4>
+                            <h4>{{ __('messages.bathroom1') }}</h4>
                             <table>
                                 <tbody>
                                     <tr>
                                         <td class="r-o">Inhoud:</td>
-                                        <td>Wastafel, toilet, douche</td>
+                                        <td>{{ __('messages.bathroom1_content') }}</td>
                                     </tr>
                                 </tbody>
                             </table>
-                            <a href="{{ url('/badkamer') }}" class="primary-btn">Meer details</a>
+                            <a href="{{ url('/badkamer') }}" class="primary-btn">{{ __('messages.details') }}</a>
                         </div>
                     </div>
                 </div>
@@ -110,16 +107,16 @@
                     <div class="room-item">
                         <img src="img/bathrooms/classico/wasbakwc.jpg" alt="">
                         <div class="ri-text">
-                            <h4>Badkamer 2</h4>
+                            <h4>{{ __('messages.bathroom2') }}</h4>
                             <table>
                                 <tbody>
                                     <tr>
                                         <td class="r-o">Inhoud:</td>
-                                        <td>Wastafel, toilet, douche, bidet</td>
+                                        <td>{{ __('messages.bathroom2_content') }}</td>
                                     </tr>
                                 </tbody>
                             </table>
-                            <a href="{{ url('/badkamer') }}" class="primary-btn">Meer details</a>
+                            <a href="{{ url('/badkamer') }}" class="primary-btn">{{ __('messages.details') }}</a>
                         </div>
                     </div>
                 </div>
@@ -127,17 +124,15 @@
                     <div class="room-item">
                         <img src="img/outside/buitened.jpg" alt="">
                         <div class="ri-text">
-                            <h4>Tuin & zwembad</h4>
+                            <h4>{{ __('messages.garden_pool') }}</h4>
                             <table>
                                 <tbody>
                                     <tr>
-                                        <td>Terras uitgerust met tuinmeubilair en BBQ, eigen ingang naar zwembad, eigen
-                                            parkeerplaats
-                                        </td>
+                                        <td>{{ __('messages.garden_pool_content') }}</td>
                                     </tr>
                                 </tbody>
                             </table>
-                            <a href="{{ url('/buiten') }}" class="primary-btn">Meer details</a>
+                            <a href="{{ url('/buiten') }}" class="primary-btn">{{ __('messages.details') }}</a>
                         </div>
                     </div>
                 </div>
@@ -150,4 +145,3 @@
 @section('footer')
     
 @endsection
-<!-- Footer Section End -->

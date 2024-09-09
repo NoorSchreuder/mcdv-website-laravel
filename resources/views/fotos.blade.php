@@ -72,6 +72,8 @@
     }
 </style>
 
+@extends('layouts.layout')
+
 @section('content')
     <!-- Breadcrumb Section Begin -->
     <div class="breadcrumb-section">
@@ -79,10 +81,10 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="breadcrumb-text">
-                        <h2>Foto's </h2>
+                        <h2>{{ __('messages.photos_title') }}</h2>
                         <div class="bt-option">
                             <a href="{{ url('/') }}">Home</a>
-                            <span>Foto's</span>
+                            <span>{{ __('messages.photos_title') }}</span>
                         </div>
                     </div>
                 </div>
@@ -121,7 +123,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/huisje/IMG_6427.jpg">
-                                    <img src="img/huisje/IMG_6427.jpg" alt="Northern Lights" width="600" height="400">
+                                    <img src="img/huisje/IMG_6427.jpg" alt="" width="600" height="400">
                                 </a>
                                 <div class="desc"></div>
                             </div>
@@ -130,7 +132,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/huisje/IMG_6429.jpg">
-                                    <img src="img/huisje/IMG_6429.jpg" alt="Northern Lights" width="600" height="400">
+                                    <img src="img/huisje/IMG_6429.jpg" alt="" width="600" height="400">
                                 </a>
                                 <div class="desc"></div>
                             </div>
@@ -141,7 +143,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/huisje/IMG_6432.jpg">
-                                    <img src="img/huisje/IMG_6432.jpg" alt="Northern Lights" width="600" height="400">
+                                    <img src="img/huisje/IMG_6432.jpg" alt="" width="600" height="400">
                                 </a>
                                 <div class="desc"></div>
                             </div>
@@ -150,7 +152,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/huisje/IMG_6433.jpg">
-                                    <img src="img/huisje/IMG_6433.jpg" alt="Northern Lights" width="600" height="400">
+                                    <img src="img/huisje/IMG_6433.jpg" alt="" width="600" height="400">
                                 </a>
                                 <div class="desc"></div>
                             </div>
@@ -158,7 +160,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/huisje/IMG_6435.jpg">
-                                    <img src="img/huisje/IMG_6435.jpg" alt="Northern Lights" width="600" height="400">
+                                    <img src="img/huisje/IMG_6435.jpg" alt="" width="600" height="400">
                                 </a>
                                 <div class="desc"></div>
                             </div>
@@ -166,7 +168,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/huisje/IMG_6439.jpg">
-                                    <img src="img/huisje/IMG_6439.jpg" alt="Northern Lights" width="600" height="400">
+                                    <img src="img/huisje/IMG_6439.jpg" alt="" width="600" height="400">
                                 </a>
                                 <div class="desc"></div>
                             </div>
@@ -176,7 +178,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/huisje/IMG_6440.jpg">
-                                    <img src="img/huisje/IMG_6440.jpg" alt="Northern Lights" width="600" height="400">
+                                    <img src="img/huisje/IMG_6440.jpg" alt="" width="600" height="400">
                                 </a>
                                 <div class="desc"></div>
                             </div>
@@ -184,7 +186,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/huisje/IMG_6483.jpg">
-                                    <img src="img/huisje/IMG_6483.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/huisje/IMG_6483.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -193,7 +195,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/huisje/IMG_6485.jpg">
-                                    <img src="img/huisje/IMG_6485.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/huisje/IMG_6485.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -228,7 +230,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/kitchen/keuken3.jpg">
-                                    <img src="img/kitchen/keuken3.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/kitchen/keuken3.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -238,7 +240,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/kitchen/keuken4.jpg">
-                                    <img src="img/kitchen/keuken4.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/kitchen/keuken4.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -250,7 +252,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/kitchen/keuken5.jpg">
-                                    <img src="img/kitchen/keuken5.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/kitchen/keuken5.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -260,7 +262,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/kitchen/koffieapparaat.jpg">
-                                    <img src="img/kitchen/koffieapparaat.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/kitchen/koffieapparaat.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -269,7 +271,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/kitchen/nis_keuken.jpg">
-                                    <img src="img/kitchen/nis_keuken.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/kitchen/nis_keuken.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -278,7 +280,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/kitchen/pannen_keuken.jpg">
-                                    <img src="img/kitchen/pannen_keuken.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/kitchen/pannen_keuken.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -289,7 +291,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/kitchen/fornuis_kastje.jpg">
-                                    <img src="img/kitchen/fornuis_kastje.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/kitchen/fornuis_kastje.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -298,7 +300,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/kitchen/fornuis.jpg">
-                                    <img src="img/kitchen/fornuis.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/kitchen/fornuis.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -307,7 +309,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/kitchen/fornuismetkastje.jpg">
-                                    <img src="img/kitchen/fornuismetkastje.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/kitchen/fornuismetkastje.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -341,7 +343,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/bedrooms/blue/slaapkamerblauw_kastje.jpg">
-                                    <img src="img/bedrooms/blue/slaapkamerblauw_kastje.jpg" alt="Northern Lights"
+                                    <img src="img/bedrooms/blue/slaapkamerblauw_kastje.jpg" alt=""
                                         width="600" height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -351,7 +353,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/bedrooms/blue/slaapkamerblauw_muur.jpg">
-                                    <img src="img/bedrooms/blue/slaapkamerblauw_muur.jpg" alt="Northern Lights"
+                                    <img src="img/bedrooms/blue/slaapkamerblauw_muur.jpg" alt=""
                                         width="600" height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -386,7 +388,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/bedrooms/classico/bed3.jpg">
-                                    <img src="img/bedrooms/classico/bed3.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/bedrooms/classico/bed3.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -396,7 +398,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/bedrooms/classico/bed4.jpg">
-                                    <img src="img/bedrooms/classico/bed4.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/bedrooms/classico/bed4.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -408,7 +410,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/bedrooms/classico/bed6.jpg">
-                                    <img src="img/bedrooms/classico/bed6.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/bedrooms/classico/bed6.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -418,7 +420,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/bedrooms/classico/kapstok.jpg">
-                                    <img src="img/bedrooms/classico/kapstok.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/bedrooms/classico/kapstok.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -428,7 +430,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/bedrooms/classico/kastje.jpg">
-                                    <img src="img/bedrooms/classico/kastje.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/bedrooms/classico/kastje.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -438,7 +440,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/bedrooms/classico/stoel_muur.jpg">
-                                    <img src="img/bedrooms/classico/stoel_muur.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/bedrooms/classico/stoel_muur.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -463,7 +465,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/bathrooms/classico/badkamerwc.jpg">
-                                    <img src="img/bathrooms/classico/badkamerwc.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/bathrooms/classico/badkamerwc.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -473,7 +475,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/bathrooms/classico/wasbakwc.jpg">
-                                    <img src="img/bathrooms/classico/wasbakwc.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/bathrooms/classico/wasbakwc.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -483,7 +485,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/bathrooms/classico/wastafel.jpg">
-                                    <img src="img/bathrooms/classico/wastafel.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/bathrooms/classico/wastafel.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -510,7 +512,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/bathrooms/nieuw/haakjesbadkamer.jpg">
-                                    <img src="img/bathrooms/nieuw/haakjesbadkamer.jpg" alt="Northern Lights"
+                                    <img src="img/bathrooms/nieuw/haakjesbadkamer.jpg" alt=""
                                         width="600" height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -520,7 +522,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/bathrooms/nieuw/overview_badkamernieuw.jpg">
-                                    <img src="img/bathrooms/nieuw/overview_badkamernieuw.jpg" alt="Northern Lights"
+                                    <img src="img/bathrooms/nieuw/overview_badkamernieuw.jpg" alt=""
                                         width="600" height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -530,7 +532,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/bathrooms/nieuw/wasbakdichtbijnieuw.jpg">
-                                    <img src="img/bathrooms/nieuw/wasbakdichtbijnieuw.jpg" alt="Northern Lights"
+                                    <img src="img/bathrooms/nieuw/wasbakdichtbijnieuw.jpg" alt=""
                                         width="600" height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -542,7 +544,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/bathrooms/nieuw/wasbaknieuw.jpg">
-                                    <img src="img/bathrooms/nieuw/wasbaknieuw.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/bathrooms/nieuw/wasbaknieuw.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -552,7 +554,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/bathrooms/nieuw/wasbakwcnieuw.jpg">
-                                    <img src="img/bathrooms/nieuw/wasbakwcnieuw.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/bathrooms/nieuw/wasbakwcnieuw.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -578,7 +580,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/outside/buitenplaat.jpg">
-                                    <img src="img/outside/buitenplaat.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/outside/buitenplaat.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -588,7 +590,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/outside/olives.jpg">
-                                    <img src="img/outside/olives.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/outside/olives.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -598,7 +600,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/outside/padzwembad.jpg">
-                                    <img src="img/outside/padzwembad.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/outside/padzwembad.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -610,7 +612,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/outside/pottenhorizontaal.jpg">
-                                    <img src="img/outside/pottenhorizontaal.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/outside/pottenhorizontaal.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -620,7 +622,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/zwembad/badeendrecht.jpg">
-                                    <img src="img/zwembad/badeendrecht.jpg" alt="Northern Lights" width="600"
+                                    <img src="img/zwembad/badeendrecht.jpg" alt="" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>

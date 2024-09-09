@@ -67,7 +67,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/huisje/IMG_6427.jpg">
-                            <img src="img/huisje/IMG_6427.jpg" alt="Northern Lights" width="600" height="400">
+                            <img src="img/huisje/IMG_6427.jpg" alt="" width="600" height="400">
                         </a>
                         <div class="desc"></div>
                     </div>
@@ -75,7 +75,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/huisje/IMG_6429.jpg">
-                            <img src="img/huisje/IMG_6429.jpg" alt="Northern Lights" width="600" height="400">
+                            <img src="img/huisje/IMG_6429.jpg" alt="" width="600" height="400">
                         </a>
                         <div class="desc"></div>
                     </div>
@@ -86,7 +86,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/huisje/IMG_6432.jpg">
-                            <img src="img/huisje/IMG_6432.jpg" alt="Northern Lights" width="600" height="400">
+                            <img src="img/huisje/IMG_6432.jpg" alt="" width="600" height="400">
                         </a>
                         <div class="desc"></div>
                     </div>
@@ -94,7 +94,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/huisje/IMG_6433.jpg">
-                            <img src="img/huisje/IMG_6433.jpg" alt="Northern Lights" width="600" height="400">
+                            <img src="img/huisje/IMG_6433.jpg" alt="" width="600" height="400">
                         </a>
                         <div class="desc"></div>
                     </div>
@@ -102,7 +102,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/huisje/IMG_6435.jpg">
-                            <img src="img/huisje/IMG_6435.jpg" alt="Northern Lights" width="600" height="400">
+                            <img src="img/huisje/IMG_6435.jpg" alt="" width="600" height="400">
                         </a>
                         <div class="desc"></div>
                     </div>
@@ -110,7 +110,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/huisje/IMG_6439.jpg">
-                            <img src="img/huisje/IMG_6439.jpg" alt="Northern Lights" width="600" height="400">
+                            <img src="img/huisje/IMG_6439.jpg" alt="" width="600" height="400">
                         </a>
                         <div class="desc"></div>
                     </div>
@@ -121,7 +121,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/huisje/IMG_6440.jpg">
-                            <img src="img/huisje/IMG_6440.jpg" alt="Northern Lights" width="600" height="400">
+                            <img src="img/huisje/IMG_6440.jpg" alt="" width="600" height="400">
                         </a>
                         <div class="desc"></div>
                     </div>
@@ -129,7 +129,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/huisje/IMG_6483.jpg">
-                            <img src="img/huisje/IMG_6483.jpg" alt="Northern Lights" width="600" height="400">
+                            <img src="img/huisje/IMG_6483.jpg" alt="" width="600" height="400">
                         </a>
                         <div class="desc"></div>
                     </div>
@@ -137,7 +137,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/huisje/IMG_6485.jpg">
-                            <img src="img/huisje/IMG_6485.jpg" alt="Northern Lights" width="600" height="400">
+                            <img src="img/huisje/IMG_6485.jpg" alt="" width="600" height="400">
                         </a>
                         <div class="desc"></div>
                     </div>
@@ -165,7 +165,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/kitchen/keuken3.jpg">
-                            <img src="img/kitchen/keuken3.jpg" alt="Northern Lights" width="600" height="400">
+                            <img src="img/kitchen/keuken3.jpg" alt="" width="600" height="400">
                         </a>
                         <div class="desc"></div>
                     </div>
@@ -174,7 +174,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/kitchen/keuken4.jpg">
-                            <img src="img/kitchen/keuken4.jpg" alt="Northern Lights" width="600" height="400">
+                            <img src="img/kitchen/keuken4.jpg" alt="" width="600" height="400">
                         </a>
                         <div class="desc"></div>
                     </div>
@@ -185,7 +185,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/kitchen/keuken5.jpg">
-                            <img src="img/kitchen/keuken5.jpg" alt="Northern Lights" width="600" height="400">
+                            <img src="img/kitchen/keuken5.jpg" alt="" width="600" height="400">
                         </a>
                         <div class="desc"></div>
                     </div>
@@ -194,7 +194,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/kitchen/koffieapparaat.jpg">
-                            <img src="img/kitchen/koffieapparaat.jpg" alt="Northern Lights" width="600"
+                            <img src="img/kitchen/koffieapparaat.jpg" alt="" width="600"
                                 height="400">
                         </a>
                         <div class="desc"></div>
@@ -203,7 +203,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/kitchen/nis_keuken.jpg">
-                            <img src="img/kitchen/nis_keuken.jpg" alt="Northern Lights" width="600"
+                            <img src="img/kitchen/nis_keuken.jpg" alt="" width="600"
                                 height="400">
                         </a>
                         <div class="desc"></div>
@@ -212,7 +212,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/kitchen/pannen_keuken.jpg">
-                            <img src="img/kitchen/pannen_keuken.jpg" alt="Northern Lights" width="600"
+                            <img src="img/kitchen/pannen_keuken.jpg" alt="" width="600"
                                 height="400">
                         </a>
                         <div class="desc"></div>
@@ -224,7 +224,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/kitchen/fornuis_kastje.jpg">
-                            <img src="img/kitchen/fornuis_kastje.jpg" alt="Northern Lights" width="600"
+                            <img src="img/kitchen/fornuis_kastje.jpg" alt="" width="600"
                                 height="400">
                         </a>
                         <div class="desc"></div>
@@ -233,7 +233,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/kitchen/fornuis.jpg">
-                            <img src="img/kitchen/fornuis.jpg" alt="Northern Lights" width="600" height="400">
+                            <img src="img/kitchen/fornuis.jpg" alt="" width="600" height="400">
                         </a>
                         <div class="desc"></div>
                     </div>
@@ -241,7 +241,7 @@
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/kitchen/fornuismetkastje.jpg">
-                            <img src="img/kitchen/fornuismetkastje.jpg" alt="Northern Lights" width="600"
+                            <img src="img/kitchen/fornuismetkastje.jpg" alt="" width="600"
                                 height="400">
                         </a>
                         <div class="desc"></div>

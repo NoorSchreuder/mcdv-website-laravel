@@ -5,8 +5,8 @@
     <section class="thankyou-section spad">
         <div class="container">
             <div class="thankyou-text">
-                <h2>Bedankt voor je bericht!</h2>
-                <p>We nemen zo snel mogelijk contact met je op.</p>
+                <h2>{{ __('messages.thank_you_title') }}</h2>
+                <p>{{ __('messages.thank_you_message') }}</p>
             </div>
         </div>
     </section>
