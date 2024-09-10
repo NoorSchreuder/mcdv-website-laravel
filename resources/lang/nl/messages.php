@@ -53,21 +53,27 @@ return [
 
 
     //index.blade.php 
-    'welcome' => 'Welkom!',
-    'book_now' => 'Boek nu!',
-    'about_us' => 'Over ons',
+    'welcome' => 'Welkom bij Il Bandito Arancione!',
+    'book_now' => 'Boek Nu!',
+    'booking_link' => 'https://www.vrbo.com/nl-nl/vakantiewoning/p11405700?chkin=2024-05-11&chkout=2024-05-18&d1=2024-05-11&d2=2024-05-18&startDate=2024-05-11&endDate=2024-05-18',
+    'about_us' => 'Over Ons',
     'il_bandito_arancione' => 'Il Bandito Arancione',
-    'welcome_message' => 'Welkom in ons prachtige appartement Il Bandito Arancione. Dit schitterende appartement is onderdeel van een 150 jaar oude boerenwoning. Een huis waar verschillende generaties samenwoonden, samen met hun vee.',
-    'learn_more' => 'Bekijk meer',
-    'what_we_do' => 'Wat we doen',
-    'discover_our_services' => 'Ontdek onze services',
+    'welcome_message' => 'We zijn verheugd u te verwelkomen in ons appartement in het hart van Umbrië.',
+    'learn_more_text' => 'Wilt u meer weten over ons verblijf?',
+    'learn_more' => 'Meer Informatie',
+    'what_we_do' => 'Wat We Doen',
+    'discover_our_services' => 'Ontdek Onze Diensten',
     'directions' => 'Routebeschrijving',
+    'directions_text' => 'Zie hoe u bij ons komt!',
     'catering_service' => 'Catering Service',
+    'catering_service_text' => 'Beschikbaar op aanvraag',
     'washing_machine' => 'Wasmachine',
+    'washing_machine_text' => 'Beschikbaar tegen betaling',
     'bedrooms' => 'Slaapkamers',
+    'bathrooms' => 'Badkamers',
+    'living_room' => 'Woonkamer',
     'outside' => 'Buiten',
-    'more_details' => 'Meer details',
-    'testimonial' => 'Wat klanten zeggen?',
+    'more_details' => 'Meer Details',
 
     //meer-informatie.blade.php 
     'more_information' => 'Meer informatie',
@@ -85,7 +91,6 @@ return [
     'travel_camping' => 'Reizen & Kamperen',
     'event_party' => 'Evenementen & Feesten',
     'discover_hotel_services' => 'Ontdek Ons Hotel & Diensten.',
-    'hurricane_season_message' => 'Het Is Orkaanseizoen Maar We Bezoeken Hilton Head Island',
 
     //routebeschrijving.blade.php 
     'route_description' => 'Routebeschrijving',
@@ -117,6 +122,34 @@ return [
     'google_list' => 'Voor het gemak van onze gasten hebben we een lange lijst via Google aangelegd, zodat gasten direct alle suggesties bij de hand hebben, maar ook direct de route kunnen aanzetten. Dat is nog eens handig!',
     'add_place' => 'Natuurlijk vinden we het ook ontzettend leuk als gasten een interessante of leuke plek willen toevoegen.',
 
+    //woonkamer.blade.php 
+    'living_room_kitchen' => 'Woonkamer-keuken',
+    'home' => 'Home',
+    'apartment' => 'Appartement',
+    'wifi' => 'Wifi',
+    'dining_table' => 'Eettafel',
+    'sofa_bed' => 'Slaapbank',
+    'fully_equipped_kitchen' => 'Volledig ingerichte keuken',
+    'dish_cabinet' => 'Servieskast',
 
+    //nav bar 
+    'book_now' => 'Boek nu!',
+    'contact' => 'Contact',
+    'route_description' => 'Routebeschrijving',
+    'home' => 'Home',
+    'apartment' => 'Appartement',
+    'photos' => 'Foto\'s',
+    'more_info' => 'Meer informatie',
+    'what_to_do' => 'Wat te doen',
+    'choose_language' => 'Kies je taal',
+    'english' => 'Engels',
+    'dutch' => 'Nederlands',
+    'phone' => 'Telefoon',
+    'email' => 'E-mail',
+    'address' => 'Adres',
+    'address_details' => 'Via del Furioso, 28, 06057 Monte Castello di Vibio',
+    'instagram' => 'Instagram',
+    'search_placeholder' => 'Zoek hier...',
+    'copyright' => 'Copyright &copy; :year Alle rechten voorbehouden',
 ];
 

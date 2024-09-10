@@ -7,37 +7,32 @@
     </div>
     <div class="header-configure-area">
         <a href="https://www.vrbo.com/nl-nl/vakantiewoning/p11405700?chkin=2024-05-11&chkout=2024-05-18&d1=2024-05-11&d2=2024-05-18&startDate=2024-05-11&endDate=2024-05-18&x_pwa=1&rfrr=HSR&pwa_ts=1697727574882&referrerUrl=aHR0cHM6Ly93d3cudnJiby5jb20vSG90ZWwtU2VhcmNo&useRewards=true&adults=1&children=&regionId=6025720&destination=Monte+Castello+di+Vibio%2C+Umbri%C3%AB%2C+Itali%C3%AB&destType=MARKET&latLong=42.837948%2C12.348275&privacyTrackingState=CAN_NOT_TRACK&searchId=d014ac90-3947-463d-a5fb-40417f04e673&sort=RECOMMENDED&top_dp=1346&top_cur=EUR&userIntent=&selectedRoomType=99714158&selectedRatePlan=0001308e9440e1094be4ab23465b24aff073&expediaPropertyId=99714158"
-            class="bk-btn">Boek nu!</a>
+            class="bk-btn">{{ __('messages.book_now') }}</a>
     </div>
     <nav class="mainmenu mobile-menu">
         <ul>
-            <li><a href="{{ url('/') }}">Home</a></li>
-            <li><a href="{{ url('/appartement') }}">Appartement </a>
+            <li><a href="{{ url('/') }}">{{ __('messages.home') }}</a></li>
+            <li><a href="{{ url('/appartement') }}">{{ __('messages.apartment') }}</a>
                 <ul class="dropdown">
-                    <li><a href="{{ url('/fotos') }}">Foto's</a></li>
-                    <li><a href="{{ url('/meer-informatie') }}">Meer informatie</a></li>
-
+                    <li><a href="{{ url('/fotos') }}">{{ __('messages.photos') }}</a></li>
+                    <li><a href="{{ url('/meer-informatie') }}">{{ __('messages.more_info') }}</a></li>
                 </ul>
             </li>
-            <li><a href="{{ url('/wat-te-doen') }}">Wat te doen </a></li>
-            <li class="active"><a href="{{ url('/contact') }}">Contact</a>
+            <li><a href="{{ url('/wat-te-doen') }}">{{ __('messages.what_to_do') }}</a></li>
+            <li class="active"><a href="{{ url('/contact') }}">{{ __('messages.contact') }}</a>
                 <ul class="dropdown">
-
-                    <li><a href="{{ url('/routebeschrijving') }}">Routebeschrijving</a></li>
-                    <!-- <li><a href="./about-us.html">Over ons</a></li> -->
+                    <li><a href="{{ url('/routebeschrijving') }}">{{ __('messages.route_description') }}</a></li>
                 </ul>
             </li>
         </ul>
     </nav>
     <div id="mobile-menu-wrap"></div>
     <div class="top-social">
-
         <a href="https://www.instagram.com/il_bandito_arancione?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><i class="fa fa-instagram"></i></a>
     </div>
     <ul class="top-widget">
         <li><i class="fa fa-phone"></i> +31 6 81 02 29 85</li>
-        <li><i class="fa fa-envelope"></i>ilbanditoarancione@gmail.com</li>
-
+        <li><i class="fa fa-envelope"></i> ilbanditoarancione@gmail.com</li>
     </ul>
 </div>
 
@@ -48,19 +43,16 @@
                 <div class="col-lg-6">
                     <ul class="tn-left">
                         <li><i class="fa fa-phone"></i> +31 6 81 02 29 85</li>
-                        <li><i class="fa fa-envelope"></i>ilbanditoarancione@gmail.com</li>
-
+                        <li><i class="fa fa-envelope"></i> ilbanditoarancione@gmail.com</li>
                     </ul>
                 </div>
                 <div class="col-lg-6">
                     <div class="tn-right">
                         <div class="top-social">
-
-                            <!-- <a href="#"><i class="fa fa-tripadvisor"></i></a> -->
                             <a href="https://www.instagram.com/il_bandito_arancione?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><i class="fa fa-instagram"></i></a>
                         </div>
                         <a href="https://www.vrbo.com/nl-nl/vakantiewoning/p11405700?chkin=2024-05-11&chkout=2024-05-18&d1=2024-05-11&d2=2024-05-18&startDate=2024-05-11&endDate=2024-05-18&x_pwa=1&rfrr=HSR&pwa_ts=1697727574882&referrerUrl=aHR0cHM6Ly93d3cudnJiby5jb20vSG90ZWwtU2VhcmNo&useRewards=true&adults=1&children=&regionId=6025720&destination=Monte+Castello+di+Vibio%2C+Umbri%C3%AB%2C+Itali%C3%AB&destType=MARKET&latLong=42.837948%2C12.348275&privacyTrackingState=CAN_NOT_TRACK&searchId=d014ac90-3947-463d-a5fb-40417f04e673&sort=RECOMMENDED&top_dp=1346&top_cur=EUR&userIntent=&selectedRoomType=99714158&selectedRatePlan=0001308e9440e1094be4ab23465b24aff073&expediaPropertyId=99714158"
-                            class="bk-btn">Boek nu!</a>
+                            class="bk-btn">{{ __('messages.book_now') }}</a>
                     </div>
                 </div>
             </div>
@@ -80,20 +72,17 @@
                     <div class="nav-menu">
                         <nav class="mainmenu">
                             <ul>
-                                <li><a href="{{ url('/') }}">Home</a></li>
-                                <li><a href="{{ url('/appartement') }}">Appartement </a>
+                                <li><a href="{{ url('/') }}">{{ __('messages.home') }}</a></li>
+                                <li><a href="{{ url('/appartement') }}">{{ __('messages.apartment') }}</a>
                                     <ul class="dropdown">
-                                        <li><a href="{{ url('/fotos') }}">Foto's</a></li>
-                                        <li><a href="{{ url('/meer-informatie') }}">Meer informatie</a></li>
-
+                                        <li><a href="{{ url('/fotos') }}">{{ __('messages.photos') }}</a></li>
+                                        <li><a href="{{ url('/meer-informatie') }}">{{ __('messages.more_info') }}</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="{{ url('/wat-te-doen') }}">Wat te doen </a> </li>
-                                <li><a href="{{ url('/contact') }}">Contact</a>
+                                <li><a href="{{ url('/wat-te-doen') }}">{{ __('messages.what_to_do') }}</a></li>
+                                <li><a href="{{ url('/contact') }}">{{ __('messages.contact') }}</a>
                                     <ul class="dropdown">
-
-                                        <li><a href="{{ url('/routebeschrijving') }}">Routebeschrijving</a></li>
-                                        <!-- <li><a href="./about-us.html">Over ons</a></li> -->
+                                        <li><a href="{{ url('/routebeschrijving') }}">{{ __('messages.route_description') }}</a></li>
                                     </ul>
                                 </li>
                             </ul>

@@ -71,7 +71,6 @@
                 <div class="col-lg-12">
                     <div class="video-text">
                         <h2>{{ __('messages.discover_hotel_services') }}</h2>
-                        <p>{{ __('messages.hurricane_season_message') }}</p>
                         <a href="https://www.youtube.com/watch?v=EzKkl64rRbM" class="play-btn video-popup">
                             <img src="img/play.png" alt="">
                         </a>

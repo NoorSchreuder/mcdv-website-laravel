@@ -1,8 +1,7 @@
-<?php
+<?php 
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ContactController;
-
 
 /*
 |--------------------------------------------------------------------------
@@ -14,6 +13,12 @@ use App\Http\Controllers\ContactController;
 | be assigned to the "web" middleware group. Make something great!
 |
 */
+
+Route::get('set-locale/{locale}', function ($locale) {
+    session(['locale' => $locale]);
+    return redirect()->back();
+})->name('set-locale');
+
 Route::get('/', function () {
     return view('index');
 });
@@ -30,9 +35,8 @@ Route::get('/buiten', function () {
     return view('buiten');
 });
 
-Route::get('/contact', function () {
-    return view('contact');
-});
+Route::get('/contact', [ContactController::class, 'showForm']);
+Route::post('/contact', [ContactController::class, 'submitForm']);
 
 Route::get('/fotos', function () {
     return view('fotos');
@@ -61,6 +65,3 @@ Route::get('/wat-te-doen', function () {
 Route::get('/woonkamer', function () {
     return view('woonkamer');
 });
-
-Route::get('/contact', [ContactController::class, 'showForm']);
-Route::post('/contact', [ContactController::class, 'submitForm']);
