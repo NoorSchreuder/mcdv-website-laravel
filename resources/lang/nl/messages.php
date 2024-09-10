@@ -53,7 +53,7 @@ return [
 
 
     //index.blade.php 
-    'welcome' => 'Welkom bij Il Bandito Arancione!',
+    'welcome' => 'Welkom!',
     'book_now' => 'Boek Nu!',
     'booking_link' => 'https://www.vrbo.com/nl-nl/vakantiewoning/p11405700?chkin=2024-05-11&chkout=2024-05-18&d1=2024-05-11&d2=2024-05-18&startDate=2024-05-11&endDate=2024-05-18',
     'about_us' => 'Over Ons',
@@ -62,10 +62,10 @@ return [
     'learn_more_text' => 'Wilt u meer weten over ons verblijf?',
     'learn_more' => 'Meer Informatie',
     'what_we_do' => 'Wat We Doen',
-    'discover_our_services' => 'Ontdek Onze Diensten',
+    'discover_our_services' => 'Ontdek onze diensten',
     'directions' => 'Routebeschrijving',
     'directions_text' => 'Zie hoe u bij ons komt!',
-    'catering_service' => 'Catering Service',
+    'catering_service' => 'Catering service',
     'catering_service_text' => 'Beschikbaar op aanvraag',
     'washing_machine' => 'Wasmachine',
     'washing_machine_text' => 'Beschikbaar tegen betaling',
@@ -151,5 +151,23 @@ return [
     'instagram' => 'Instagram',
     'search_placeholder' => 'Zoek hier...',
     'copyright' => 'Copyright &copy; :year Alle rechten voorbehouden',
+
+    //footer.blade.php 
+    'logo_alt' => 'Logo',
+    'description' => 'Vakantiehuis in Italië, Umbrië',
+    'contact_title' => 'Neem contact op!',
+    'phone' => '+31 6 81 02 29 85',
+    'email' => 'ilbanditoarancione@gmail.com',
+    'address' => 'Via del Furioso, 28, 06057 Monte Castello di Vibio',
+    'language_choice' => 'Kies je taal',
+    'dutch' => 'Nederlands',
+    'english' => 'Engels',
+    'home' => 'Home',
+    'appartement' => 'Appartement',
+    'activities' => 'Wat te doen',
+    'contact' => 'Contact',
+    'copyright' => 'Copyright',
+    'rights' => 'Alle rechten voorbehouden',
+    'search_placeholder' => 'Zoek hier...'
 ];
 

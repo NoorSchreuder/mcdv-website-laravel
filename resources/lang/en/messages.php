@@ -52,14 +52,14 @@ return [
     'house_description' => 'View the photos of the house.',
 
     //index.blade.php 
-   'welcome' => 'Welcome to Il Bandito Arancione!',
+   'welcome' => 'Welcome!',
     'book_now' => 'Book now!',
     'booking_link' => 'https://www.vrbo.com/nl-nl/vakantiewoning/p11405700?chkin=2024-05-11&chkout=2024-05-18&d1=2024-05-11&d2=2024-05-18&startDate=2024-05-11&endDate=2024-05-18',
     'about_us' => 'About us',
     'il_bandito_arancione' => 'Il Bandito Arancione',
     'welcome_message' => 'We are delighted to welcome you to our apartment in the heart of Umbria.',
-    'learn_more_text' => 'Want to learn more about our property?',
-    'learn_more' => 'Learn more',
+    'learn_more_text' => 'Want to read more about our property?',
+    'learn_more' => 'Read more',
     'what_we_do' => 'What we do',
     'discover_our_services' => 'Discover our services',
     'directions' => 'Directions',
@@ -152,4 +152,22 @@ return [
     'instagram' => 'Instagram',
     'search_placeholder' => 'Search here...',
     'copyright' => 'Copyright &copy; :year All rights reserved',
+
+    //footer.blade.php 
+    'logo_alt' => 'Logo',
+    'description' => 'Holiday home in Italy, Umbria',
+    'contact_title' => 'Get in touch!',
+    'phone' => '+31 6 81 02 29 85',
+    'email' => 'ilbanditoarancione@gmail.com',
+    'address' => 'Via del Furioso, 28, 06057 Monte Castello di Vibio',
+    'language_choice' => 'Choose your language',
+    'dutch' => 'Dutch',
+    'english' => 'English',
+    'home' => 'Home',
+    'appartement' => 'Apartment',
+    'activities' => 'Things to do',
+    'contact' => 'Contact',
+    'copyright' => 'Copyright',
+    'rights' => 'All rights reserved',
+    'search_placeholder' => 'Search here...'
 ];

@@ -41,7 +41,7 @@
                                 <img src="img/logo.png" alt="Logo" height="100" width="50">
                             </a>
                         </div>
-                        <p>Vakantiehuis in Italië, Umbrië</p>
+                        <p> {{ __('messages.description') }} </p>
                         <div class="fa-social">
                             <!-- <a href="#"><i class="fa fa-tripadvisor"></i></a> -->
                             <a href="https://www.instagram.com/il_bandito_arancione?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><i class="fa fa-instagram"></i></a>
@@ -50,7 +50,7 @@
                 </div>
                 <div class="col-lg-3 offset-lg-1">
                     <div class="ft-contact">
-                        <h6>Neem contact op!</h6>
+                        <h6>{{ __('messages.contact_title') }}</h6>
                         <ul>
                             <li>+31 6 81 02 29 85</li>
                             <li>ilbanditoarancione@gmail.com</li>
@@ -61,10 +61,10 @@
                 <div class="col-lg-4">
                     <!-- Taalkeuze sectie -->
                     <div class="ft-lang">
-                        <h6>Kies je taal</h6>
+                        <h6>{{ __('messages.language_choice') }}</h6>
                         <ul>
-                            <li><a href="{{ route('set-locale', ['locale' => 'nl']) }}">Nederlands</a></li>
-                            <li><a href="{{ route('set-locale', ['locale' => 'en']) }}">English</a></li>
+                            <li><a href="{{ route('set-locale', ['locale' => 'nl']) }}">{{ __('messages.dutch') }}</a></li>
+                            <li><a href="{{ route('set-locale', ['locale' => 'en']) }}">{{ __('messages.english') }}</a></li>
                             <!-- Voeg meer talen toe indien nodig -->
                         </ul>
                     </div>
@@ -77,17 +77,17 @@
             <div class="row">
                 <div class="col-lg-7">
                     <ul>
-                        <li><a href="{{ url('/') }}">Home</a></li>
-                        <li><a href="{{ url('/appartement') }}">Appartement</a></li>
-                        <li><a href="{{ url('/wat-te-doen') }}">Wat te doen</a></li>
-                        <li><a href="{{ url('/contact') }}">Contact</a></li>
+                        <li><a href="{{ url('/') }}">{{ __('messages.home') }}</a></li>
+                        <li><a href="{{ url('/appartement') }}">{{ __('messages.apartment') }}</a></li>
+                        <li><a href="{{ url('/wat-te-doen') }}">{{ __('messages.activities') }}</a></li>
+                        <li><a href="{{ url('/contact') }}">{{ __('messages.contact') }}</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-5">
                     <div class="co-text">
                         <p>
-                            Copyright &copy;
-                            <script>document.write(new Date().getFullYear());</script> All rights reserved
+                            {{ __('messages.copyright') }} &copy;
+                            <script>document.write(new Date().getFullYear());</script> {{ __('messages.rights') }}
                         </p>
                     </div>
                 </div>
