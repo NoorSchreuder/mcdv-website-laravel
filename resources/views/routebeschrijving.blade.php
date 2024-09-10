@@ -27,11 +27,11 @@
                         <div class="bd-more-text">
                             <div class="bm-item">
                                 <h4>{{ __('messages.by_car') }}</h4>
-                                <p>{{ __('messages.by_car_description') }}</p>
+                                <p>{!! __('messages.by_car_description') !!}</p>
                             </div>
                             <div class="bm-item">
                                 <h4>{{ __('messages.by_plane') }}</h4>
-                                <p>{{ __('messages.by_plane_description') }}</p>
+                                <p>{!! __('messages.by_plane_description') !!}</p>
                             </div>
                         </div>
                     </div>
