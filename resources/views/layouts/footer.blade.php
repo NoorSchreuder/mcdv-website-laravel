@@ -1,35 +1,3 @@
-<style>
-    .ft-lang {
-    margin-top: 20px;
-}
-
-.ft-lang h6 {
-    font-size: 16px;
-    margin-bottom: 10px;
-}
-
-.ft-lang ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-}
-
-.ft-lang ul li {
-    display: inline;
-    margin-right: 10px;
-}
-
-.ft-lang ul li a {
-    text-decoration: none;
-    color: #000;
-}
-
-.ft-lang ul li a:hover {
-    text-decoration: underline;
-}
-
-</style>
-
 <footer class="footer-section">
     <div class="container">
         <div class="footer-text">
@@ -58,13 +26,14 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-3 offset-lg-1">
                     <!-- Taalkeuze sectie -->
-                    <div class="ft-lang">
+                    <div class="ft-contact">
                         <h6>{{ __('messages.language_choice') }}</h6>
                         <ul>
                             <li><a href="{{ route('set-locale', ['locale' => 'nl']) }}">{{ __('messages.dutch') }}</a></li>
                             <li><a href="{{ route('set-locale', ['locale' => 'en']) }}">{{ __('messages.english') }}</a></li>
+                            <li><a href="{{ route('set-locale', ['locale' => 'it']) }}">{{ __('messages.italiano') }}</a></li>
                             <!-- Voeg meer talen toe indien nodig -->
                         </ul>
                     </div>

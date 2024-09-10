@@ -163,6 +163,7 @@ return [
     'language_choice' => 'Choose your language',
     'dutch' => 'Dutch',
     'english' => 'English',
+    'italiano' => 'Italiano',
     'home' => 'Home',
     'appartement' => 'Apartment',
     'activities' => 'Things to do',

@@ -162,6 +162,7 @@ return [
     'language_choice' => 'Kies je taal',
     'dutch' => 'Nederlands',
     'english' => 'Engels',
+    'italiano' => 'Italiano',
     'home' => 'Home',
     'appartement' => 'Appartement',
     'activities' => 'Wat te doen',
