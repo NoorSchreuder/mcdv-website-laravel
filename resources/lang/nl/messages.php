@@ -58,10 +58,12 @@ return [
     'booking_link' => 'https://www.vrbo.com/nl-nl/vakantiewoning/p11405700?chkin=2024-05-11&chkout=2024-05-18&d1=2024-05-11&d2=2024-05-18&startDate=2024-05-11&endDate=2024-05-18',
     'about_us' => 'Over Ons',
     'il_bandito_arancione' => 'Il Bandito Arancione',
-    'welcome_message' => 'We zijn verheugd u te verwelkomen in ons appartement in het hart van Umbrië.',
+    'welcome_message' => 'Welkom in onze prachtige appartement Il Bandito Arancione. Dit schitterende appartement is
+                                onderdeel van een 150 jaar oude villa en diende oorspronkelijk als boerderij. Een huis waar
+                                verschillende generaties samenwoonden, samen met hun vee.',
     'learn_more_text' => 'Wilt u meer weten over ons verblijf?',
-    'learn_more' => 'Meer Informatie',
-    'what_we_do' => 'Wat We Doen',
+    'learn_more' => 'Meer informatie',
+    'what_we_do' => 'Wat we Doen',
     'discover_our_services' => 'Ontdek onze diensten',
     'directions' => 'Routebeschrijving',
     'directions_text' => 'Zie hoe u bij ons komt!',
