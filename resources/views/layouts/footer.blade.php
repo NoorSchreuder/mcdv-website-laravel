@@ -34,6 +34,7 @@
                             <li><a href="{{ route('set-locale', ['locale' => 'nl']) }}">{{ __('messages.dutch') }}</a></li>
                             <li><a href="{{ route('set-locale', ['locale' => 'en']) }}">{{ __('messages.english') }}</a></li>
                             <li><a href="{{ route('set-locale', ['locale' => 'it']) }}">{{ __('messages.italiano') }}</a></li>
+                            <li><a href="{{ route('set-locale', ['locale' => 'fr']) }}">{{ __('messages.france') }}</a></li>
                             <!-- Voeg meer talen toe indien nodig -->
                         </ul>
                     </div>

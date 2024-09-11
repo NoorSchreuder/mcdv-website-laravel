@@ -164,6 +164,7 @@ return [
     'dutch' => 'Dutch',
     'english' => 'English',
     'italiano' => 'Italiano',
+    'france' => 'French', 
     'home' => 'Home',
     'appartement' => 'Apartment',
     'activities' => 'Things to do',

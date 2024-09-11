@@ -66,7 +66,8 @@
                                     $flags = [
                                         'nl' => ['src' => 'img/nederland.png', 'code' => 'NL'],
                                         'en' => ['src' => 'img/engels.png', 'code' => 'EN'],
-                                        'it' => ['src' => 'img/italie.png', 'code' => 'IT']
+                                        'it' => ['src' => 'img/italie.png', 'code' => 'IT'], 
+                                        'fr' => ['src' => 'img/frankrijk.png', 'code' => 'FR']
                                     ];
                                     $currentFlag = $flags[$currentLocale] ?? $flags['nl']; 
                                 @endphp

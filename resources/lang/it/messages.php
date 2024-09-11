@@ -164,6 +164,7 @@ return [
     'dutch' => 'Olandese',
     'english' => 'Inglese',
     'italiano' => 'Italiano',
+    'france' => 'Francese',
     'home' => 'Home',
     'appartement' => 'Appartamento',
     'activities' => 'Cose da fare',
