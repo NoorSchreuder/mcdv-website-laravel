@@ -172,6 +172,15 @@ return [
     'contact' => 'Contact',
     'copyright' => 'Copyright',
     'rights' => 'Alle rechten voorbehouden',
-    'search_placeholder' => 'Zoek hier...'
+    'search_placeholder' => 'Zoek hier...',
+
+    //fotos.php 
+    'cottage' => 'Huisje',
+    'kitchen' => 'Keuken',
+    'first_bedroom' => 'Slaapkamer 1',
+    'second_bedroom' => 'Slaapkamer 2',
+    'first_badroom' => 'Badkamer 1',
+    'second_badroom' => 'Badkamer 2',
+    'outside' => 'Buiten en zwembad'
 ];
 

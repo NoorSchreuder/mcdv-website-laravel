@@ -171,5 +171,14 @@ return [
     'contact' => 'Contact',
     'copyright' => 'Copyright',
     'rights' => 'All rights reserved',
-    'search_placeholder' => 'Search here...'
+    'search_placeholder' => 'Search here...',
+
+    //fotos.php 
+    'cottage' => 'Apartment',
+    'kitchen' => 'Kitchen',
+    'first_bedroom' => 'Bedroom 1',
+    'second_bedroom' =>  'Bedroom 2',
+    'first_badroom' => 'Badroom 1', 
+    'second_badroom' => 'Badroom 2',
+    'outside' => 'Outside and swimmingpool'
 ];

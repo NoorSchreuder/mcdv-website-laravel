@@ -96,7 +96,7 @@
         <div class="container">
             <div class="row">
                 <div class="accordion-container bk-btn">
-                    <h2 class="accordion-title">Huisje</h2>
+                    <h2 class="accordion-title">{{ __('messages.cottage') }}</h2>
                     <div class="accordion-content">
                         <div class="responsive">
                             <div class="gallery">
@@ -203,7 +203,7 @@
                     </div>
                 </div>
                 <div class="accordion-container">
-                    <h2 class="accordion-title">Keuken</h2>
+                    <h2 class="accordion-title">{{ __('messages.kitchen') }}</h2>
                     <div class="accordion-content">
                         <div class="responsive">
                             <div class="gallery">
@@ -316,7 +316,7 @@
                     </div>
                 </div>
                 <div class="accordion-container">
-                    <h2 class="accordion-title">Slaapkamer 1</h2>
+                    <h2 class="accordion-title">{{ __('messages.first_bedroom') }}</h2>
                     <div class="accordion-content">
                         <div class="responsive">
                             <div class="gallery">
@@ -360,7 +360,7 @@
                     </div>
                 </div>
                 <div class="accordion-container">
-                    <h2 class="accordion-title">Slaapkamer 2</h2>
+                    <h2 class="accordion-title">{{ __('messages.second_bedroom') }} </h2>
                     <div class="accordion-content">
 
                         <div class="responsive">
@@ -447,7 +447,7 @@
                     </div>
                 </div>
                 <div class="accordion-container">
-                    <h2 class="accordion-title">Badkamer 1</h2>
+                    <h2 class="accordion-title">{{ __('messages.first_badroom') }}</h2>
                     <div class="accordion-content">
 
                         <div class="responsive">
@@ -494,7 +494,7 @@
 
                 </div>
                 <div class="accordion-container">
-                    <h2 class="accordion-title">Badkamer 2</h2>
+                    <h2 class="accordion-title">{{ __('messages.second_badroom') }}</h2>
                     <div class="accordion-content">
 
                         <div class="responsive">
@@ -562,7 +562,7 @@
 
                 </div>
                 <div class="accordion-container">
-                    <h2 class="accordion-title">Buiten & zwembad</h2>
+                    <h2 class="accordion-title">{{ __('messages.outside') }}</h2>
                     <div class="accordion-content">
 
                         <div class="responsive">

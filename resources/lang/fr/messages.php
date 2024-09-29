@@ -171,5 +171,14 @@ return [
     'contact' => 'Contact',
     'copyright' => 'Copyright',
     'rights' => 'Tous droits réservés',
-    'search_placeholder' => 'Rechercher ici...'
+    'search_placeholder' => 'Rechercher ici...',
+
+    //fotos.php 
+    'cottage' => 'Cottage',
+    'kitchen' => 'Cuisine',
+    'first_bedroom' => 'Chambre 1',
+    'second_bedroom' => 'Chambre 2',
+    'first_badroom' => 'Salle de bain 1',
+    'second_badroom' => 'Salle de bain 2',
+    'outside' => 'Extérieur et piscine'
 ];
