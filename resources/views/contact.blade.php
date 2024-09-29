@@ -12,16 +12,16 @@
                         <table>
                             <tbody>
                                 <tr>
-                                    <td class="c-o">{{ __('messages.address') }}</td>
-                                    <td>Via del Furioso, 28, 06057 Monte Castello di Vibio</td>
+                                    <td class="c-o">Address</td>
+                                    <td>{{ __('messages.address') }}</td>
                                 </tr>
                                 <tr>
-                                    <td class="c-o">{{ __('messages.phone') }}</td>
-                                    <td>+31 6 81 02 29 85</td>
+                                    <td class="c-o">Phone</td>
+                                    <td>{{ __('messages.phone') }}</td>
                                 </tr>
                                 <tr>
-                                    <td class="c-o">{{ __('messages.email') }}</td>
-                                    <td>ilbanditoarancione@gmail.com</td>
+                                    <td class="c-o">Email</td>
+                                    <td>{{ __('messages.email') }}</td>
                                 </tr>
                             </tbody>
                         </table>
