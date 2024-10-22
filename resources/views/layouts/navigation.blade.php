@@ -6,7 +6,7 @@
         <i class="icon_search"></i>
     </div>
     <div class="header-configure-area">
-        <a href="https://www.vrbo.com/nl-nl/vakantiewoning/p11405700?chkin=2024-05-11&chkout=2024-05-18&d1=2024-05-11&d2=2024-05-18&startDate=2024-05-11&endDate=2024-05-18&x_pwa=1&rfrr=HSR&pwa_ts=1697727574882&referrerUrl=aHR0cHM6Ly93d3cudnJiby5jb20vSG90ZWwtU2VhcmNo&useRewards=true&adults=1&children=&regionId=6025720&destination=Monte+Castello+di+Vibio%2C+Umbri%C3%AB%2C+Itali%C3%AB&destType=MARKET&latLong=42.837948%2C12.348275&privacyTrackingState=CAN_NOT_TRACK&searchId=d014ac90-3947-463d-a5fb-40417f04e673&sort=RECOMMENDED&top_dp=1346&top_cur=EUR&userIntent=&selectedRoomType=99714158&selectedRatePlan=0001308e9440e1094be4ab23465b24aff073&expediaPropertyId=99714158"
+        <a href="https://it.airbnb.ch/rooms/1005599939245778737?guests=1&adults=1&s=67&unique_share_id=1235b04c-fb57-4839-9ae9-69caf380312d"
             class="bk-btn">{{ __('messages.book_now') }}</a>
         <!-- Taalwissel -->
         <div class="language-option">
@@ -82,7 +82,7 @@
                         </div>
                         {{-- <div class="header-configure-area"> --}}
                              <!-- Boekingsknop -->
-                             <a href="https://www.vrbo.com/nl-nl/vakantiewoning/p11405700?chkin=2024-05-11&chkout=2024-05-18&d1=2024-05-11&d2=2024-05-18&startDate=2024-05-11&endDate=2024-05-18&x_pwa=1&rfrr=HSR&pwa_ts=1697727574882&referrerUrl=aHR0cHM6Ly93d3cudnJiby5jb20vSG90ZWwtU2VhcmNo&useRewards=true&adults=1&children=&regionId=6025720&destination=Monte+Castello+di+Vibio%2C+Umbri%C3%AB%2C+Itali%C3%AB&destType=MARKET&latLong=42.837948%2C12.348275&privacyTrackingState=CAN_NOT_TRACK&searchId=d014ac90-3947-463d-a5fb-40417f04e673&sort=RECOMMENDED&top_dp=1346&top_cur=EUR&userIntent=&selectedRoomType=99714158&selectedRatePlan=0001308e9440e1094be4ab23465b24aff073&expediaPropertyId=99714158" class="bk-btn">
+                             <a href="https://it.airbnb.ch/rooms/1005599939245778737?guests=1&adults=1&s=67&unique_share_id=1235b04c-fb57-4839-9ae9-69caf380312d" class="bk-btn">
                                 {{ __('messages.book_now') }}
                             </a>
                             <!-- Taalwissel -->

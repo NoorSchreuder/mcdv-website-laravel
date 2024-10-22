@@ -54,7 +54,7 @@ return [
     //index.blade.php 
     'welcome' => 'Benvenuto!',
     'book_now' => 'Prenota ora!',
-    'booking_link' => 'https://www.vrbo.com/nl-nl/vakantiewoning/p11405700?chkin=2024-05-11&chkout=2024-05-18&d1=2024-05-11&d2=2024-05-18&startDate=2024-05-11&endDate=2024-05-18',
+    'booking_link' => 'https://it.airbnb.ch/rooms/1005599939245778737?guests=1&adults=1&s=67&unique_share_id=1235b04c-fb57-4839-9ae9-69caf380312d',
     'about_us' => 'Chi siamo',
     'il_bandito_arancione' => 'Il Bandito Arancione',
     'welcome_message' => 'Benvenuti nel nostro bellissimo appartamento, Il Bandito Arancione. Questo splendido appartamento fa parte di una villa di 150 anni che originariamente serviva come fattoria. Era una casa dove diverse generazioni vivevano insieme, insieme al loro bestiame.',
