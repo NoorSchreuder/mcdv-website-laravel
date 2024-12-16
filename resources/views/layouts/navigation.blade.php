@@ -58,7 +58,7 @@
         <a href="https://www.instagram.com/il_bandito_arancione?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><i class="fa fa-instagram"></i></a>
     </div>
     <ul class="top-widget">
-        <li><i class="fa fa-phone"></i> +31 6 81 02 29 85</li>
+        <li><i class="fa fa-phone"></i> +39 392 4848129</li>
         <li><i class="fa fa-envelope"></i> ilbanditoarancione@gmail.com</li>
     </ul>
 </div>
@@ -69,7 +69,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <ul class="tn-left">
-                        <li><i class="fa fa-phone"></i> +31 6 81 02 29 85</li>
+                        <li><i class="fa fa-phone"></i> +39 392 4848129</li>
                         <li><i class="fa fa-envelope"></i> ilbanditoarancione@gmail.com</li>
                     </ul>
                 </div>

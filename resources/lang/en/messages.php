@@ -157,7 +157,7 @@ return [
     'logo_alt' => 'Logo',
     'description' => 'Holiday home in Italy, Umbria',
     'contact_title' => 'Get in touch!',
-    'phone' => '+31 6 81 02 29 85',
+    'phone' => '+39 392 4848129',
     'email' => 'ilbanditoarancione@gmail.com',
     'address' => 'Via del Furioso, 28, 06057 Monte Castello di Vibio',
     'language_choice' => 'Choose your language',

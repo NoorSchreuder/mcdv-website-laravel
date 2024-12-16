@@ -20,7 +20,7 @@
                     <div class="ft-contact">
                         <h6>{{ __('messages.contact_title') }}</h6>
                         <ul>
-                            <li>+31 6 81 02 29 85</li>
+                            <li>+39 392 4848129</li>
                             <li>ilbanditoarancione@gmail.com</li>
                             <li>Via del Furioso, 28, 06057 <br> Monte Castello di Vibio</li>
                         </ul>
