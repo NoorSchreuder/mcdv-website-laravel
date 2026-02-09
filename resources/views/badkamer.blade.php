@@ -46,8 +46,8 @@
                     <div class="accordion-content">
                         <div class="responsive">
                             <div class="gallery">
-                                <a target="_blank" href="img/bathrooms/classico/badkamergordijnopen.jpg">
-                                    <img src="img/bathrooms/classico/badkamergordijnopen.jpg" alt="Badeend in zwembad"
+                                <a target="_blank" href="img/bathrooms/classico/bk2-p1.jpeg">
+                                    <img src="img/bathrooms/classico/bk2-p1.jpeg" alt="Badeend in zwembad"
                                         width="600" height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -56,8 +56,8 @@
 
                         <div class="responsive">
                             <div class="gallery">
-                                <a target="_blank" href="img/bathrooms/classico/badkamerwc.jpg">
-                                    <img src="img/bathrooms/classico/badkamerwc.jpg" alt="Northern Lights" width="600"
+                                <a target="_blank" href="img/bathrooms/classico/bk2-p2.jpeg">
+                                    <img src="img/bathrooms/classico/bk2-p2.jpeg" alt="Northern Lights" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -66,8 +66,8 @@
 
                         <div class="responsive">
                             <div class="gallery">
-                                <a target="_blank" href="img/bathrooms/classico/wasbakwc.jpg">
-                                    <img src="img/bathrooms/classico/wasbakwc.jpg" alt="Northern Lights" width="600"
+                                <a target="_blank" href="img/bathrooms/classico/bk2-p3.jpeg">
+                                    <img src="img/bathrooms/classico/bk2-p3.jpeg" alt="Northern Lights" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -76,8 +76,8 @@
 
                         <div class="responsive">
                             <div class="gallery">
-                                <a target="_blank" href="img/bathrooms/classico/wastafel.jpg">
-                                    <img src="img/bathrooms/classico/wastafel.jpg" alt="Northern Lights" width="600"
+                                <a target="_blank" href="img/bathrooms/classico/bk2-p4.jpeg">
+                                    <img src="img/bathrooms/classico/bk2-p4.jpeg" alt="Northern Lights" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>

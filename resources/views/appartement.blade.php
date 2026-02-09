@@ -108,7 +108,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="room-item">
-                        <img src="img/bathrooms/classico/wasbakwc.jpg" alt="">
+                        <img src="img/bathrooms/classico/bk2-p3.jpeg" alt="">
                         <div class="ri-text">
                             <h4>Badkamer 2</h4>
                             <table>
