@@ -453,7 +453,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/bathrooms/classico/bk2-p1.jpeg">
-                                    <img src="img/bathrooms/classico/bk2-p1.jpeg" alt="Badeend in zwembad"
+                                    <img src="img/bathrooms/classico/bk2-p1.jpeg" alt="Badkamer 2 foto 1"
                                         width="600" height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -463,7 +463,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/bathrooms/classico/bk2-p2.jpeg">
-                                    <img src="img/bathrooms/classico/bk2-p2.jpeg" alt="Northern Lights" width="600"
+                                    <img src="img/bathrooms/classico/bk2-p2.jpeg" alt="Badkamer 2 foto 2" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -473,7 +473,7 @@
                         <div class="responsive">
                             <div class="gallery">
                                 <a target="_blank" href="img/bathrooms/classico/bk2-p3.jpeg">
-                                    <img src="img/bathrooms/classico/bk2-p3.jpeg" alt="Northern Lights" width="600"
+                                    <img src="img/bathrooms/classico/bk2-p3.jpeg" alt="Badkamer 2 foto 3" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -482,8 +482,8 @@
 
                         <div class="responsive">
                             <div class="gallery">
-                                <a target="_blank" href="img/bathrooms/classico/wastafel.jpg">
-                                    <img src="img/bathrooms/classico/wastafel.jpg" alt="Northern Lights" width="600"
+                                <a target="_blank" href="img/bathrooms/classico/bk2-p4.jpeg">
+                                    <img src="img/bathrooms/classico/bk2-p4.jpeg" alt="Badkamer 2 foto 4" width="600"
                                         height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -499,8 +499,8 @@
 
                         <div class="responsive">
                             <div class="gallery">
-                                <a target="_blank" href="img/bathrooms/nieuw/binnenkomst.jpg">
-                                    <img src="img/bathrooms/nieuw/binnenkomst.jpg" alt="Badeend in zwembad"
+                                <a target="_blank" href="img/bathrooms/nieuw/bk1-p1.jpeg">
+                                    <img src="img/bathrooms/nieuw/bk1-p1.jpeg" alt="photo 1"
                                         width="600" height="400">
                                 </a>
                                 <div class="desc"></div>
@@ -509,51 +509,9 @@
 
                         <div class="responsive">
                             <div class="gallery">
-                                <a target="_blank" href="img/bathrooms/nieuw/haakjesbadkamer.jpg">
-                                    <img src="img/bathrooms/nieuw/haakjesbadkamer.jpg" alt="Northern Lights"
+                                <a target="_blank" href="img/bathrooms/nieuw/bk1-p2.jpeg">
+                                    <img src="img/bathrooms/nieuw/bk1-p2.jpeg" alt="Photo 2"
                                         width="600" height="400">
-                                </a>
-                                <div class="desc"></div>
-                            </div>
-                        </div>
-
-                        <div class="responsive">
-                            <div class="gallery">
-                                <a target="_blank" href="img/bathrooms/nieuw/overview_badkamernieuw.jpg">
-                                    <img src="img/bathrooms/nieuw/overview_badkamernieuw.jpg" alt="Northern Lights"
-                                        width="600" height="400">
-                                </a>
-                                <div class="desc"></div>
-                            </div>
-                        </div>
-
-                        <div class="responsive">
-                            <div class="gallery">
-                                <a target="_blank" href="img/bathrooms/nieuw/wasbakdichtbijnieuw.jpg">
-                                    <img src="img/bathrooms/nieuw/wasbakdichtbijnieuw.jpg" alt="Northern Lights"
-                                        width="600" height="400">
-                                </a>
-                                <div class="desc"></div>
-                            </div>
-                        </div>
-
-                        <div class="clearfix"></div>
-
-                        <div class="responsive">
-                            <div class="gallery">
-                                <a target="_blank" href="img/bathrooms/nieuw/wasbaknieuw.jpg">
-                                    <img src="img/bathrooms/nieuw/wasbaknieuw.jpg" alt="Northern Lights" width="600"
-                                        height="400">
-                                </a>
-                                <div class="desc"></div>
-                            </div>
-                        </div>
-
-                        <div class="responsive">
-                            <div class="gallery">
-                                <a target="_blank" href="img/bathrooms/nieuw/wasbakwcnieuw.jpg">
-                                    <img src="img/bathrooms/nieuw/wasbakwcnieuw.jpg" alt="Northern Lights" width="600"
-                                        height="400">
                                 </a>
                                 <div class="desc"></div>
                             </div>

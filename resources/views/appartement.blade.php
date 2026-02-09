@@ -91,7 +91,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="room-item">
-                        <img src="img/bathrooms/nieuw/wasbakwcnieuw.jpg" alt="">
+                        <img src="img/bathrooms/nieuw/bk1-p1.jpeg" alt="Badkamer 1 foto 1">
                         <div class="ri-text">
                             <h4>Badkamer 1</h4>
                             <table>
