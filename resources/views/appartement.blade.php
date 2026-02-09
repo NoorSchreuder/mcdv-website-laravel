@@ -25,7 +25,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="room-item">
-                        <img src="img/huisje/binnenkomsttafel.jpg" alt="">
+                        <img src="img/huisje/lv2.jpeg" alt="Woonkamer foto 2">
                         <div class="ri-text">
                             <h4>Woonkamer-keuken</h4>
                             <table>
@@ -47,7 +47,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="room-item">
-                        <img src="img/bedrooms/blue/slaapkamerblauw_bed.jpg" alt="">
+                        <img src="img/bedrooms/blue/room1-p1.jpeg" alt="Slaapkamer 1 foto 1">
                         <div class="ri-text">
                             <h4>Slaapkamer 1</h4>
                             <table>
@@ -69,7 +69,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="room-item">
-                        <img src="img/bedrooms/classico/bed10.jpg" alt="">
+                        <img src="img/bedrooms/classico/room2-p4.jpeg" alt="Slaapkamer 2 foto 4">
                         <div class="ri-text">
                             <h4>Slaapkamer 2</h4>
                             <table>
