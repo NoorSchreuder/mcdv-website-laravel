@@ -44,8 +44,8 @@
             <div class="row">
                 <div class="responsive">
                     <div class="gallery">
-                        <a target="_blank" href="img/bedrooms/blue/slaapkamerblauw_bed.jpg">
-                            <img src="img/bedrooms/blue/slaapkamerblauw_bed.jpg" alt="Badeend in zwembad" width="600"
+                        <a target="_blank" href="img/bedrooms/blue/room1-.jpg">
+                            <img src="img/bedrooms/blue/room1-p1.jpeg" alt="Slaapkamer 1 foto 1" width="600"
                                 height="400">
                         </a>
                         <div class="desc"></div>
@@ -54,28 +54,8 @@
 
                 <div class="responsive">
                     <div class="gallery">
-                        <a target="_blank" href="img/bedrooms/blue/slaapkamerblauw_deur.jpg">
-                            <img src="img/bedrooms/blue/slaapkamerblauw_deur.jpg" alt="Binnenkomst vakantiehuis"
-                                width="600" height="400">
-                        </a>
-                        <div class="desc"></div>
-                    </div>
-                </div>
-
-                <div class="responsive">
-                    <div class="gallery">
-                        <a target="_blank" href="img/bedrooms/blue/slaapkamerblauw_kastje.jpg">
-                            <img src="img/bedrooms/blue/slaapkamerblauw_kastje.jpg" alt="Northern Lights" width="600"
-                                height="400">
-                        </a>
-                        <div class="desc"></div>
-                    </div>
-                </div>
-
-                <div class="responsive">
-                    <div class="gallery">
-                        <a target="_blank" href="img/bedrooms/blue/slaapkamerblauw_muur.jpg">
-                            <img src="img/bedrooms/blue/slaapkamerblauw_muur.jpg" alt="Northern Lights" width="600"
+                        <a target="_blank" href="img/bedrooms/blue/room1-p2.jpeg">
+                            <img src="img/bedrooms/blue/room1-p2.jpeg" alt="Slaapkamer 1 foto 2" width="600"
                                 height="400">
                         </a>
                         <div class="desc"></div>
@@ -86,8 +66,8 @@
 
                 <div class="responsive">
                     <div class="gallery">
-                        <a target="_blank" href="img/bedrooms/classico/binnenkomst.jpg">
-                            <img src="img/bedrooms/classico/binnenkomst.jpg" alt="Badeend in zwembad" width="600"
+                        <a target="_blank" href="img/bedrooms/classico/room2-p1.jpeg">
+                            <img src="img/bedrooms/classico/room2-p1.jpeg" alt="Slaapkamer 2 foto 1" width="600"
                                 height="400">
                         </a>
                         <div class="desc"></div>
@@ -96,73 +76,36 @@
 
                 <div class="responsive">
                     <div class="gallery">
-                        <a target="_blank" href="img/bedrooms/classico/bed1.jpg">
-                            <img src="img/bedrooms/classico/bed1.jpg" alt="Badeend in zwembad" width="600" height="400">
-                        </a>
-                        <div class="desc"></div>
-                    </div>
-                </div>
-
-                <div class="responsive">
-                    <div class="gallery">
-                        <a target="_blank" href="img/bedrooms/classico/bed3.jpg">
-                            <img src="img/bedrooms/classico/bed3.jpg" alt="Northern Lights" width="600" height="400">
-                        </a>
-                        <div class="desc"></div>
-                    </div>
-                </div>
-
-                <div class="responsive">
-                    <div class="gallery">
-                        <a target="_blank" href="img/bedrooms/classico/bed4.jpg">
-                            <img src="img/bedrooms/classico/bed4.jpg" alt="Northern Lights" width="600" height="400">
-                        </a>
-                        <div class="desc"></div>
-                    </div>
-                </div>
-
-                <div class="clearfix"></div>
-
-                <div class="responsive">
-                    <div class="gallery">
-                        <a target="_blank" href="img/bedrooms/classico/bed6.jpg">
-                            <img src="img/bedrooms/classico/bed6.jpg" alt="Northern Lights" width="600" height="400">
-                        </a>
-                        <div class="desc"></div>
-                    </div>
-                </div>
-
-                <div class="responsive">
-                    <div class="gallery">
-                        <a target="_blank" href="img/bedrooms/classico/kapstok.jpg">
-                            <img src="img/bedrooms/classico/kapstok.jpg" alt="Northern Lights" width="600" height="400">
-                        </a>
-                        <div class="desc"></div>
-                    </div>
-                </div>
-
-                <div class="responsive">
-                    <div class="gallery">
-                        <a target="_blank" href="img/bedrooms/classico/kastje.jpg">
-                            <img src="img/bedrooms/classico/kastje.jpg" alt="Northern Lights" width="600" height="400">
-                        </a>
-                        <div class="desc"></div>
-                    </div>
-                </div>
-
-                <div class="responsive">
-                    <div class="gallery">
-                        <a target="_blank" href="img/bedrooms/classico/stoel_muur.jpg">
-                            <img src="img/bedrooms/classico/stoel_muur.jpg" alt="Northern Lights" width="600"
+                        <a target="_blank" href="img/bedrooms/classico/room2-p2.jpeg">
+                            <img src="img/bedrooms/classico/room2-p2.jpeg" alt="Slaapkamer 2 foto 2" width="600"
                                 height="400">
                         </a>
                         <div class="desc"></div>
                     </div>
                 </div>
+
+                <div class="responsive">
+                    <div class="gallery">
+                        <a target="_blank" href="img/bedrooms/classico/room2-p3.jpeg">
+                            <img src="img/bedrooms/classico/room2-p3.jpeg" alt="Slaapkamer 2 foto 3" width="600" height="400">
+                        </a>
+                        <div class="desc"></div>
+                    </div>
+                </div>
+
+                <div class="responsive">
+                    <div class="gallery">
+                        <a target="_blank" href="img/bedrooms/classico/room2-p4.jpeg">
+                            <img src="img/bedrooms/classico/room2-p4.jpeg" alt="Slaapkamer 2 foto 4" width="600" height="400">
+                        </a>
+                        <div class="desc"></div>
+                    </div>
+                </div>
+
                 <div class="clearfix"></div>
                 <div class="gallery">
-                    <a target="_blank" href="img/bedrooms/blue/slaapkamerblauw_bed.jpg">
-                        <img src="img/bedrooms/blue/slaapkamerblauw_bed.jpg" alt="Badeend in zwembad" width="600"
+                    <a target="_blank" href="img/bedrooms/blue/room1-p1.jpeg">
+                        <img src="img/bedrooms/blue/room1-p1.jpeg" alt="Slaapkamer 1 foto 1" width="600"
                             height="400">
                     </a>
                     <div class="desc"></div>
@@ -171,33 +114,15 @@
 
             <div class="responsive">
                 <div class="gallery">
-                    <a target="_blank" href="img/bedrooms/blue/slaapkamerblauw_deur.jpg">
-                        <img src="img/bedrooms/blue/slaapkamerblauw_deur.jpg" alt="Binnenkomst vakantiehuis" width="600"
+                    <a target="_blank" href="img/bedrooms/blue/room1-p2.jpeg">
+                        <img src="img/bedrooms/blue/room1-p2.jpeg" alt="Slaapkamer 1 foto 2" width="600"
                             height="400">
                     </a>
                     <div class="desc"></div>
                 </div>
             </div>
 
-            <div class="responsive">
-                <div class="gallery">
-                    <a target="_blank" href="img/bedrooms/blue/slaapkamerblauw_kastje.jpg">
-                        <img src="img/bedrooms/blue/slaapkamerblauw_kastje.jpg" alt="Northern Lights" width="600"
-                            height="400">
-                    </a>
-                    <div class="desc"></div>
-                </div>
-            </div>
-
-            <div class="responsive">
-                <div class="gallery">
-                    <a target="_blank" href="img/bedrooms/blue/slaapkamerblauw_muur.jpg">
-                        <img src="img/bedrooms/blue/slaapkamerblauw_muur.jpg" alt="Northern Lights" width="600"
-                            height="400">
-                    </a>
-                    <div class="desc"></div>
-                </div>
-            </div>
+           
         </div>
         </div>
         </div>
