@@ -18,9 +18,7 @@
         </div>
         <div class="hero-slider owl-carousel">
             <div class="hs-item set-bg" data-setbg="img/homepagina/badeend.jpg"></div>
-            <div class="hs-item set-bg" data-setbg="img/homepagina/voorkantdeur.jpg"></div>
-            <div class="hs-item set-bg" data-setbg="img/homepagina/woonkamer.jpg"></div>
-            <div class="hs-item set-bg" data-setbg="img/homepagina/tafel.jpg"></div>
+            {{-- <div class="hs-item set-bg" data-setbg="img/homepagina/voorkantdeur.jpg"></div> --}}
             <div class="hs-item set-bg" data-setbg="img/homepagina/zwembad.jpg"></div>
         </div>
     </section>
@@ -127,7 +125,7 @@
             <div class="hp-room-items">
                 <div class="row">
                     <div class="col-lg-3 col-md-6">
-                        <div class="hp-room-item set-bg" data-setbg="img/bedrooms/classico/bed10.jpg">
+                        <div class="hp-room-item set-bg" data-setbg="img/bedrooms/classico/room2-p4.jpeg">
                             <div class="hr-text">
                                 <h3>Slaapkamers</h3>
                                 <a href="{{ url('/slaapkamer') }}" class="primary-btn">Meer details</a>
@@ -135,7 +133,7 @@
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <div class="hp-room-item set-bg" data-setbg="img/bathrooms/nieuw/overview_badkamernieuw.jpg">
+                        <div class="hp-room-item set-bg" data-setbg="img/bathrooms/nieuw/bk1-p1.jpeg">
                             <div class="hr-text">
                                 <h3>Badkamers</h3>
                                 <a href="{{ url('/badkamer') }}" class="primary-btn">Meer details</a>
@@ -143,7 +141,7 @@
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        <div class="hp-room-item set-bg" data-setbg="img/huisje/overviewliving.jpg">
+                        <div class="hp-room-item set-bg" data-setbg="img/huisje/lv2.jpeg">
                             <div class="hr-text">
                                 <h3>Woonkamer</h3>
                                 <a href="{{ url('/woonkamer') }}" class="primary-btn">Meer details</a>

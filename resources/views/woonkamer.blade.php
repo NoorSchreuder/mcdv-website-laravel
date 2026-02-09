@@ -48,8 +48,8 @@
             <div class="accordion-content">
                 <div class="responsive">
                     <div class="gallery">
-                        <a target="_blank" href="img/huisje/binnenkomst.jpg">
-                            <img src="img/huisje/binnenkomst.jpg" alt="Badeend in zwembad" width="600"
+                        <a target="_blank" href="img/huisje/lv2.jpeg">
+                            <img src="img/huisje/lv2.jpeg" alt="Woonkamer foto 2" width="600"
                                 height="400">
                         </a>
                         <div class="desc"></div>
@@ -57,8 +57,8 @@
                 </div>
                 <div class="responsive">
                     <div class="gallery">
-                        <a target="_blank" href="img/huisje/binnenkomsttafel.jpg">
-                            <img src="img/huisje/binnenkomsttafel.jpg" alt="Binnenkomst vakantiehuis" width="600"
+                        <a target="_blank" href="img/huisje/lv3.jpeg">
+                            <img src="img/huisje/lv3.jpeg" alt="Woonkamer foto 3" width="600"
                                 height="400">
                         </a>
                         <div class="desc"></div>
@@ -66,82 +66,13 @@
                 </div>
                 <div class="responsive">
                     <div class="gallery">
-                        <a target="_blank" href="img/huisje/IMG_6427.jpg">
-                            <img src="img/huisje/IMG_6427.jpg" alt="Northern Lights" width="600" height="400">
+                        <a target="_blank" href="img/huisje/lv1.jpeg">
+                            <img src="img/huisje/lv1.jpeg" alt="Woonkamer foto 1" width="600" height="400">
                         </a>
                         <div class="desc"></div>
                     </div>
                 </div>
-                <div class="responsive">
-                    <div class="gallery">
-                        <a target="_blank" href="img/huisje/IMG_6429.jpg">
-                            <img src="img/huisje/IMG_6429.jpg" alt="Northern Lights" width="600" height="400">
-                        </a>
-                        <div class="desc"></div>
-                    </div>
-                </div>
-
                 <div class="clearfix"></div>
-
-                <div class="responsive">
-                    <div class="gallery">
-                        <a target="_blank" href="img/huisje/IMG_6432.jpg">
-                            <img src="img/huisje/IMG_6432.jpg" alt="Northern Lights" width="600" height="400">
-                        </a>
-                        <div class="desc"></div>
-                    </div>
-                </div>
-                <div class="responsive">
-                    <div class="gallery">
-                        <a target="_blank" href="img/huisje/IMG_6433.jpg">
-                            <img src="img/huisje/IMG_6433.jpg" alt="Northern Lights" width="600" height="400">
-                        </a>
-                        <div class="desc"></div>
-                    </div>
-                </div>
-                <div class="responsive">
-                    <div class="gallery">
-                        <a target="_blank" href="img/huisje/IMG_6435.jpg">
-                            <img src="img/huisje/IMG_6435.jpg" alt="Northern Lights" width="600" height="400">
-                        </a>
-                        <div class="desc"></div>
-                    </div>
-                </div>
-                <div class="responsive">
-                    <div class="gallery">
-                        <a target="_blank" href="img/huisje/IMG_6439.jpg">
-                            <img src="img/huisje/IMG_6439.jpg" alt="Northern Lights" width="600" height="400">
-                        </a>
-                        <div class="desc"></div>
-                    </div>
-                </div>
-
-                <div class="clearfix"></div>
-
-                <div class="responsive">
-                    <div class="gallery">
-                        <a target="_blank" href="img/huisje/IMG_6440.jpg">
-                            <img src="img/huisje/IMG_6440.jpg" alt="Northern Lights" width="600" height="400">
-                        </a>
-                        <div class="desc"></div>
-                    </div>
-                </div>
-                <div class="responsive">
-                    <div class="gallery">
-                        <a target="_blank" href="img/huisje/IMG_6483.jpg">
-                            <img src="img/huisje/IMG_6483.jpg" alt="Northern Lights" width="600" height="400">
-                        </a>
-                        <div class="desc"></div>
-                    </div>
-                </div>
-                <div class="responsive">
-                    <div class="gallery">
-                        <a target="_blank" href="img/huisje/IMG_6485.jpg">
-                            <img src="img/huisje/IMG_6485.jpg" alt="Northern Lights" width="600" height="400">
-                        </a>
-                        <div class="desc"></div>
-                    </div>
-                </div>
                 <div class="responsive">
                     <div class="gallery">
                         <a target="_blank" href="img/kitchen/keuken.jpg">
